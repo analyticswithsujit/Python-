@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,customer_name,region,product_id,product_name,category,unit_price,quantity,total_price,order_status
+55fad759-2ca8-4a43-9224-55be589da0a4,12-05-2025,9bc957d3-c7b2-45e8-9a1d-b36e931a16d1,Destiny Steele,South,P008,Backpack,Accessories,35,2,70,Completed
+0f2807a6-6c38-4601-998b-d378e32fcd79,01-03-2025,ebcb1c2a-03c2-4738-a4a5-ebdeaaef6b18,Caleb Petty,South,P010,Pen Set,Stationery,3.5,3,10.5,Completed
+48f084b9-1453-4ea6-af78-8bb1f230ed4a,31-10-2024,9659b4a9-09eb-4dfb-83bb-739106d686aa,Mitchell Robbins,East,P005,Notebook,Stationery,5.99,3,17.97,Completed
+f4668b39-ec95-4289-a19e-d914bf863533,09-01-2025,9c9b8db7-8bb6-4f50-81d7-a084b300d26d,Mindy Powell,South,P007,Running Shoes,Footwear,80,3,240,Completed
+f418d898-d43e-4d63-9710-2eb46436a9f3,01-09-2024,bf743bf0-7343-476d-b53b-c2ce4476d7e9,Charlene Bright,West,P001,Wireless Mouse,Electronics,25.99,3,77.97,Pending
+07786a4b-4001-41a7-9a72-6b76bff23099,20-11-2024,df1727df-e899-4605-aa2e-2ddfe08f97fd,Travis Acosta,West,P004,Desk Lamp,Home,30,4,120,Pending
+42fe7894-670a-47e6-a878-1d70c1e138fd,20-07-2025,dd82db96-8843-4c8e-8483-bcec21fd15da,Paul Cooper,North,P009,Water Bottle,Fitness,10,3,30,Completed
+dd12c730-9fc4-4d39-b4b4-ff0cd0f0067c,24-04-2025,e69cef3c-9282-4091-8254-d9f3967a182c,Robert Edwards,West,P009,Water Bottle,Fitness,10,1,10,Completed
+20490dec-395d-41a3-9a19-b2f530fa3805,18-11-2024,39d5e62c-e2e5-4bd3-a3ed-f8e72e536f84,Michael Moses,East,P003,Yoga Mat,Fitness,20,3,60,Completed
+92a968f0-a4e4-4a58-8f2d-a2a776de6f65,30-06-2025,5c22f65e-6d2e-42f6-be0e-02c93972ab16,Keith Allen,West,P006,Gaming Keyboard,Electronics,60,4,240,Completed
+51c1107e-8806-473a-836c-45605e71c033,02-09-2024,f34f469a-3ceb-43ca-b1bc-e3cc39941b4f,Elizabeth Farmer,West,P009,Water Bottle,Fitness,10,4,40,Completed
+9d9cce88-4ecf-4c92-806c-102268ae8fac,24-11-2024,d3aa6eea-4c7d-4901-a1cf-8b3f37f5c215,Benjamin Santiago,West,P006,Gaming Keyboard,Electronics,60,1,60,Completed
+0adf3b4f-4f6e-479e-9cb5-06662d7786dc,23-03-2025,067df218-d18a-40a9-82d0-5914b956db73,Rachel Christensen,South,P004,Desk Lamp,Home,30,3,90,Completed
+aa71d2c6-384d-44b3-8e12-4504f2839e6a,22-12-2024,4dabe077-7df1-4f26-91fa-d32fb89e5d80,Jeffrey Ross,West,P002,Bluetooth Speaker,Electronics,45.5,4,182,Cancelled
+71ad1924-f0ea-4eea-a055-1b4bf16c522d,20-12-2024,e38b6d3e-5771-4b55-afd2-4ca43c9221f4,Diana Anderson,East,P007,Running Shoes,Footwear,80,4,320,Completed
+26fe7203-0caf-4a5f-8a95-b5c9671ecb55,09-05-2025,80a19517-3ae8-422a-9ccf-317213f397fb,Nicole Griffin,West,P008,Backpack,Accessories,35,5,175,Completed
+50bb64d9-799b-4876-b057-b04f572a0569,07-02-2025,9cf41794-c50e-46be-be46-254f693bfd9c,Stephanie Chavez,West,P002,Bluetooth Speaker,Electronics,45.5,4,182,Pending
+8dbab9a7-3859-4154-a11f-db7e20876c15,27-04-2025,7fbea523-5889-4d04-baf9-86169841e358,Christopher Marsh,East,P006,Gaming Keyboard,Electronics,60,4,240,Completed
+c79f7f64-a464-40f9-91d1-845cbb35ef2f,14-12-2024,f30ac38e-0fc3-4719-986a-22072b4c8a15,Raymond Gardner,West,P005,Notebook,Stationery,5.99,2,11.98,Completed
+a284088c-2f07-4dce-a966-1b05e2cb4571,07-02-2025,d7974f2b-2555-4ae2-b62f-fded34249fe4,Sandra Valentine,South,P003,Yoga Mat,Fitness,20,5,100,Completed
+bf17ab64-9757-4871-87c7-405801717518,24-06-2025,3eac4730-f205-46a2-a289-cdcef0037583,Laura Howell,East,P009,Water Bottle,Fitness,10,2,20,Pending
+894ace05-c6e0-424b-87dc-145abc0e6628,13-11-2024,e36e57fc-c0e4-4c63-afca-808b3812498a,Shelly Blankenship,North,P010,Pen Set,Stationery,3.5,3,10.5,Completed
+1f31b611-d23b-40ae-b6c9-b399903e7141,01-12-2024,1cf50132-90cf-4ccf-b21c-922c088231e1,Robert Patterson,East,P005,Notebook,Stationery,5.99,1,5.99,Completed
+79469687-265f-41b0-b8fe-677c70b19941,16-04-2025,9c38f5d6-4221-4d25-ace8-c211315a0f11,Amy Stevenson,South,P004,Desk Lamp,Home,30,3,90,Completed
+cc32e787-227a-4a3c-bfd0-0151901df97d,29-01-2025,9bac8c27-d1b2-42ab-82ea-1b69745d6cb4,Emily Mathis,North,P009,Water Bottle,Fitness,10,2,20,Completed
+c99cbf70-2f66-4c11-95ba-7e504bc5e4fc,26-04-2025,379c5b7e-ae12-485e-8c44-066d3994e480,Marvin Dalton,West,P009,Water Bottle,Fitness,10,1,10,Completed
+09188942-e4c7-4f07-a5c2-84c56af3a8f3,13-06-2025,9a6d24a3-ff70-4bf2-806a-61dd11ca91aa,Zachary Jones,South,P005,Notebook,Stationery,5.99,2,11.98,Completed
+a830ce0e-1a18-4120-a238-266955df6433,25-06-2025,ba666da0-7fcb-46a1-bfc4-8f5f89037fca,Brian Mcmillan,West,P001,Wireless Mouse,Electronics,25.99,2,51.98,Completed
+e4591fbf-a79f-4df9-b32a-e8406dc14bfc,10-03-2025,4ec9f25b-38a4-4157-9cd2-7e181e483528,John Gonzalez,South,P008,Backpack,Accessories,35,1,35,Pending
+514ad833-c73c-4bff-b5cb-bef867e9e5f8,17-06-2025,6d0c189e-7025-4129-a9f8-8bff38a92fbe,Richard Cervantes,West,P003,Yoga Mat,Fitness,20,5,100,Cancelled
+1e1502d4-89ee-4d30-87fa-eda446671cea,08-08-2024,0503d486-9f9e-4284-a024-359a8e7129ae,Monica Nixon,South,P006,Gaming Keyboard,Electronics,60,3,180,Completed
+9256294a-6ec7-499e-9f2c-71c2904f7f5a,26-04-2025,72706f8b-40d2-4a73-87e2-03a7c809a90a,Heather Foster,East,P009,Water Bottle,Fitness,10,5,50,Completed
+dd28f079-969e-4a02-8255-0c762a790f8c,12-09-2024,9b82b3e4-957f-472e-99f8-319a4989108a,Christian Fletcher,East,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Pending
+1815032f-692a-4e7a-80b5-04f3d40550f0,30-05-2025,1af87b87-2d60-43c0-8289-24703363d419,Mark Rodriguez,West,P003,Yoga Mat,Fitness,20,3,60,Completed
+9c5e849a-7978-473d-9900-da3ec444a577,08-03-2025,4df6a481-6d8b-49c5-9f0c-b7cd0bf24518,Kevin Hoffman,North,P002,Bluetooth Speaker,Electronics,45.5,2,91,Completed
+4ab1cd82-7914-4417-91c4-39c3d3e5c63c,16-03-2025,223e2ca7-9e8d-4041-affb-fc285f01baaa,Jamie Hansen,North,P006,Gaming Keyboard,Electronics,60,3,180,Completed
+f42a10a7-3999-4c19-9dd1-7c95bad9461f,08-01-2025,402a9b47-526a-4510-a95b-d2c925b8837b,Edward Garrett,North,P003,Yoga Mat,Fitness,20,1,20,Completed
+35d754d2-0921-474e-923e-e642ee22b5ee,28-04-2025,499a2d90-7002-4c94-80b2-57f1b97d85a7,Justin Willis,North,P009,Water Bottle,Fitness,10,5,50,Completed
+513eb736-5452-4ab0-acc4-3b8e0e0bc0ea,10-01-2025,e4b2cbb5-432d-417d-98de-21652286ce14,Sarah Clay,West,P001,Wireless Mouse,Electronics,25.99,3,77.97,Completed
+4ba65a1d-2bc5-4743-a785-c708107c2d69,02-11-2024,afbb27ea-d83c-4584-ba0e-548c0addb7ae,Arthur Sutton,South,P001,Wireless Mouse,Electronics,25.99,1,25.99,Completed
+eab93664-a5e7-4cb7-8d6d-18213c28393f,11-12-2024,0b98e2eb-dd5d-45fd-9d20-669f2ed181da,Casey Hoover,East,P007,Running Shoes,Footwear,80,4,320,Completed
+814b3c9f-8114-441e-94ef-2bac1af760e4,12-09-2024,74a34cbb-c4a2-40fd-a0c4-6668df3cf1c1,Michelle Jones,East,P001,Wireless Mouse,Electronics,25.99,5,129.95,Completed
+ca3927d5-f6d7-41b2-8dff-0c4a206254fc,23-06-2025,7594bb71-6afd-4c1c-afc7-256bcf9024c6,Chris Zuniga,South,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+99684074-1617-475e-92a3-46b1f659050f,20-10-2024,2de41817-d61f-455c-b386-c271518552c7,Stephanie Robertson,South,P007,Running Shoes,Footwear,80,4,320,Completed
+7df30b5c-7ad8-4bc5-b4b0-c81a8850fe6f,30-01-2025,e964faaf-d444-4da0-bb94-0698125e7f41,Alicia Reyes,East,P001,Wireless Mouse,Electronics,25.99,3,77.97,Completed
+fc5e0c75-de9f-439b-bd08-1eb38b9e588e,29-06-2025,409d553b-7035-4d6f-9028-be8e00e3a78e,Alyssa White,South,P005,Notebook,Stationery,5.99,2,11.98,Pending
+049185fc-d6d6-4cc8-b229-c5e35034e208,03-08-2024,9ebb04fa-8ea6-4aca-90fc-3c8cc677b0ab,David Berger,North,P001,Wireless Mouse,Electronics,25.99,1,25.99,Cancelled
+0665b7cc-40d9-4f9a-b1be-b9c35dd1ca4f,05-01-2025,9d499bed-9063-418e-83e7-38281c79b7b8,Jonathan Rivera,South,P009,Water Bottle,Fitness,10,2,20,Completed
+762917ca-4e0a-43f1-b58f-f86a7e61663e,12-01-2025,2adeee48-ec8e-4ffb-8d77-efba8ed8829a,Brandon Riley,West,P002,Bluetooth Speaker,Electronics,45.5,2,91,Completed
+4dad2fc7-cdbe-488d-8ee2-8ce66821f548,18-10-2024,893ac5f3-d215-48d1-9746-d28c3c3978b8,Brandon Sims,West,P010,Pen Set,Stationery,3.5,5,17.5,Completed
+5269a30f-d042-4f74-8a04-116aa562756b,11-08-2024,90a9e20c-34b6-49f1-b325-c773d65bde26,Marcus Salazar,North,P001,Wireless Mouse,Electronics,25.99,2,51.98,Completed
+9a97157c-9ba5-4233-a757-bf1f081d8b86,25-12-2024,650b72c9-a0ed-497a-8f24-68392ab171d9,Valerie Ponce,West,P001,Wireless Mouse,Electronics,25.99,1,25.99,Pending
+43ba5bf4-a296-45dc-804e-b076f736b34f,10-12-2024,f3e019bc-ad5f-44f3-b9f5-acfd1502fa2a,Taylor James,East,P005,Notebook,Stationery,5.99,1,5.99,Completed
+dcabe008-7a32-4b8d-bf56-13919e793d80,01-10-2024,acf01f0c-fa1b-4d1f-830f-2b47b2a154de,Kelly Pennington,South,P001,Wireless Mouse,Electronics,25.99,1,25.99,Completed
+6ae37c5e-04e1-4517-bd30-f16e4daa2864,09-03-2025,908d0635-7fe3-4ce8-954b-258a57d84dab,Geoffrey Skinner,East,P007,Running Shoes,Footwear,80,2,160,Completed
+a730b2b0-09eb-485b-9a23-a27fb2ca3c2e,14-12-2024,ebc9364d-1221-4f80-a76d-953684546dec,Terry Gomez,South,P006,Gaming Keyboard,Electronics,60,4,240,Pending
+9f17af56-7306-4782-92f6-2078684bf123,05-02-2025,7cab0580-7e5f-4b2f-ab03-ffb9f7bf7a70,Carla Stone,West,P010,Pen Set,Stationery,3.5,4,14,Completed
+74cb895d-d4e8-47fa-920b-52f784463c60,19-05-2025,aa02eeb7-f2e5-4b0a-b672-4e6c0a55ae4e,Daniel King,West,P009,Water Bottle,Fitness,10,1,10,Completed
+a2fcc87d-4d8f-4d25-a40b-6e2953057008,06-01-2025,833296c9-9853-4fa8-a9dd-fecbf1847eac,John Prince,East,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+e2d91425-7179-4b96-8f6c-f48c69a1c30e,14-01-2025,b0c33110-5e13-416a-a779-138ef5039737,Carlos Lyons,East,P006,Gaming Keyboard,Electronics,60,2,120,Completed
+8c38ae38-2d5e-4896-9792-01b5d64b3a15,06-01-2025,8e8901c1-c474-488a-ac64-071209015f8e,Roberta Reilly,North,P007,Running Shoes,Footwear,80,5,400,Completed
+8a5c7a69-25d7-4522-afea-5c47c6a273ec,20-12-2024,db3833a0-5e49-484f-9d2f-dd923460fc94,Alan Howell,North,P007,Running Shoes,Footwear,80,4,320,Completed
+3d4d7ca1-df45-4fe0-bd87-7565c3eda059,12-01-2025,fbf81b18-98bf-4821-b7bc-d11c3bce753f,Donna Anderson,North,P009,Water Bottle,Fitness,10,1,10,Completed
+f577188e-52c2-4914-8b85-921dc8f5e165,19-04-2025,0f13c50c-90f6-4246-ba1e-d48cb9a9d265,Juan Poole,West,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Completed
+f4de9174-89f5-4058-8bff-1bdf80542114,04-09-2024,b346481f-f16c-422e-91cf-2d7a76677f12,Jonathan Meyer,West,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+5121b5f6-ca1e-4a46-8dc8-54d2ea1fe551,05-12-2024,776328d5-2fe6-4e51-9db4-bba96808777b,Amy Stone,West,P002,Bluetooth Speaker,Electronics,45.5,2,91,Completed
+ffca6eaa-c1aa-4f63-8f8b-aabb93c9fd04,06-12-2024,11ce0ed6-a5b1-4fca-8172-816fd6a98fc6,Mark Briggs,East,P005,Notebook,Stationery,5.99,5,29.95,Completed
+4deef48c-800d-4bd5-9489-7c3d02f0c54e,07-10-2024,e47ecd69-ca9b-4bbc-b78a-3a6fa75f556f,Karen Bruce,West,P007,Running Shoes,Footwear,80,1,80,Completed
+b56fff28-9e4d-4683-a269-9f15d6660389,01-03-2025,a7c90d71-5bef-4e85-8348-544fece56964,Seth Brock,West,P004,Desk Lamp,Home,30,2,60,Completed
+878089be-9fa1-49ad-ae8b-ec9a8a70f1d3,31-08-2024,7ed98329-d389-4bb6-b219-ed9d04616af1,Bridget King,South,P007,Running Shoes,Footwear,80,3,240,Pending
+071076a5-f6e3-40ac-bf30-109d2cc7715d,27-05-2025,1116331c-d850-43bc-bad2-9cccca93f291,Spencer Allen,North,P008,Backpack,Accessories,35,5,175,Completed
+906e8a8e-0f68-490e-9698-d690cc4eddb1,19-09-2024,adfde5eb-4a00-4d54-92c5-4c1ef508a6ae,Christy Martin,South,P007,Running Shoes,Footwear,80,5,400,Completed
+f7a49c3e-6886-49d8-9dee-6550807281f2,18-03-2025,5f57b8b1-717b-49a3-916f-b02de00c1131,Summer Martin,East,P005,Notebook,Stationery,5.99,2,11.98,Completed
+4e671c8d-9172-40f8-9a96-576cd6755fed,16-09-2024,17083fa5-a695-43a8-ae63-4a154c86230d,Linda Weber,North,P003,Yoga Mat,Fitness,20,5,100,Completed
+c215bfad-863a-4756-90a1-dff920bb5815,20-07-2025,f6ab79e2-a847-4ef9-8a19-6e37436d9e8f,Michelle Shaw,West,P003,Yoga Mat,Fitness,20,3,60,Completed
+c294dda8-cb49-413a-baaf-dfac7b3a6275,27-09-2024,0a14e5e4-69b8-409f-bda2-2c884a7789ee,Kyle Frank,West,P003,Yoga Mat,Fitness,20,3,60,Completed
+1eaaf23d-fa67-45d7-b1b1-407e3a135571,09-10-2024,4a421a5d-9953-41e6-8c2e-6292e9416584,Daniel Boyd,North,P001,Wireless Mouse,Electronics,25.99,4,103.96,Completed
+93594a8c-048a-4081-8dea-c5ee52a7524a,10-02-2025,ea662bda-be90-487c-b513-82adf39ab5f1,Jennifer Ramirez,East,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+512817bb-f946-44ec-93ab-a0cb689cc806,09-06-2025,9b9084c9-3bc4-4904-92a0-c9fdedddee4f,Stephanie Brown,West,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+2f2582b6-9001-49df-88ae-b425452ae4c6,09-10-2024,fb57f70a-4cd2-480b-b892-72edeb7d9390,Cassandra Franco,North,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+e669a29b-8b77-4aa1-98a1-cd187e807253,04-12-2024,11f3bac5-9679-41dc-8763-ccb9550439ae,Yolanda Forbes,East,P008,Backpack,Accessories,35,4,140,Completed
+2530f8b9-c519-4e38-aab2-1ef92a1bb54c,21-05-2025,599b7ba7-f28a-4cac-be3f-46f00b82d4eb,Christopher Brown,West,P003,Yoga Mat,Fitness,20,1,20,Completed
+50e8b6fb-6bff-4e6e-9b09-9761d55b2e83,26-01-2025,eaca400c-3d1a-4a40-aca0-e0fcc0661366,Steven Thompson,West,P009,Water Bottle,Fitness,10,3,30,Completed
+e74a65cc-a2cb-43a4-ac4e-d900449dc7f6,20-09-2024,c4e8e3ce-45bf-4a61-9be8-a69c765d96dd,Jordan Diaz,East,P002,Bluetooth Speaker,Electronics,45.5,4,182,Completed
+47f6c80b-fc3b-4be5-9cef-bb4e50f3801b,20-03-2025,da7e1c66-5253-458a-b16b-dfbffb7107c5,Cassandra Bennett,East,P005,Notebook,Stationery,5.99,1,5.99,Cancelled
+dcad56c7-b243-4ba2-8822-38ad5c67f589,12-05-2025,c170438d-d8ff-4b5c-be4a-78136965264a,Lindsey Davis,South,P003,Yoga Mat,Fitness,20,3,60,Completed
+a41e413a-a72b-43dd-b537-60cf24968e0b,09-12-2024,39f256b6-9a6d-428c-a345-b64952adae58,Pamela Bennett,South,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Pending
+a112d1d1-f8dc-45b2-acfd-5deb2d7c8ed4,24-06-2025,43083188-9251-4416-a9a0-bc51b1d37c30,Kenneth Rowe,North,P009,Water Bottle,Fitness,10,2,20,Completed
+a13189fb-2827-437e-a0d3-e8d8e80c759c,30-06-2025,0a651b0b-3eba-48bc-be97-689dd6d81272,Carol Jones,East,P004,Desk Lamp,Home,30,5,150,Completed
+e2d8d592-038b-4ecd-8be2-2b442e362819,11-11-2024,25193c1e-52e9-4786-bba9-a0a44233906b,Jenna Khan,West,P007,Running Shoes,Footwear,80,5,400,Completed
+b96edc53-9bd6-4bb3-b448-50ca77556f45,12-03-2025,b7bdaa6f-e63c-4040-b1ca-f5e884910fdd,Ricky Haley,West,P004,Desk Lamp,Home,30,3,90,Completed
+d58caa74-7928-48a7-96e4-bc978ed524ed,16-04-2025,d0c1e730-974c-4d7f-82a1-98ec0e60b8b4,Sean Strickland,East,P010,Pen Set,Stationery,3.5,4,14,Completed
+1d9cb89c-1c24-4054-b779-3ae9956c1aab,26-08-2024,5d89eb1e-8e68-4f96-bf09-c71ceb6f337c,Maria Reed,South,P004,Desk Lamp,Home,30,5,150,Pending
+65d9fe4b-6114-4c1a-a59d-0d375352b633,09-01-2025,d909034b-2b3e-4ee8-8694-a35c8718a934,Stephen Li,West,P007,Running Shoes,Footwear,80,1,80,Completed
+6fda3c89-109f-4b64-a82b-b84f413c8f66,02-04-2025,39f40acb-b5b2-4e87-b20e-1d43f22c3783,Cindy Riddle,West,P006,Gaming Keyboard,Electronics,60,5,300,Completed
+fd776807-a0d5-4508-a5fa-e74b03097d72,02-01-2025,c378ff4b-ba16-413c-a58d-8cc24c341de9,David Ward,West,P008,Backpack,Accessories,35,4,140,Pending
+7cd13536-188b-43d6-993b-fd7f801d0d38,22-07-2025,07d70893-125e-4d27-9d80-445b62aa92a0,Steven Jimenez,North,P003,Yoga Mat,Fitness,20,4,80,Completed
+b783ad22-84a1-4a73-80b2-6a2840c9daae,27-11-2024,2fc1ed45-5c2b-4a1e-9a45-0987f09d9b62,Cindy Williams,South,P008,Backpack,Accessories,35,4,140,Completed
+689c48d6-73c6-455d-8c14-eb747e948217,03-06-2025,a423b1f1-e9bc-4369-bf4a-ffabe56bdfa2,Christopher Moore,South,P007,Running Shoes,Footwear,80,5,400,Completed
+a1637c33-2414-4e13-b49d-e83f46faaecf,26-12-2024,9065e5e6-f9c0-467f-8c23-2c0df7cf0243,Christopher Foster,North,P003,Yoga Mat,Fitness,20,3,60,Completed
+86d5c32a-43b5-4037-871a-b3631624032b,28-05-2025,e4f526d7-21c6-4c14-a3be-0297f265644b,Kari Holder,North,P007,Running Shoes,Footwear,80,3,240,Completed
+53905cbc-0c52-48ce-b697-c0e7ada107df,30-04-2025,0189fa27-eedd-49c6-a96f-43895376cb36,Michael Oliver,South,P007,Running Shoes,Footwear,80,5,400,Completed
+54435f22-11a6-401c-b42a-3ff28d6dc9a0,07-08-2024,748fe917-013b-48d5-8304-eb52666832b7,Cory Taylor,South,P006,Gaming Keyboard,Electronics,60,3,180,Completed
+1c682bc1-e958-4dcb-8a10-630645780973,08-06-2025,15706737-71bc-4e46-ac17-458a472e4074,Olivia Tate,East,P005,Notebook,Stationery,5.99,3,17.97,Cancelled
+035c981c-ef72-44a9-85d3-f5a0a55d6499,17-04-2025,a28cc104-52e9-4ac3-b0ea-c438a70e27e6,Cheryl Nelson,West,P004,Desk Lamp,Home,30,3,90,Pending
+cd5b3e3f-0ff7-46df-8928-f42f6865b2df,20-07-2025,77f7f460-42b7-4da7-b5ab-73537b44337f,Joel Gonzalez,East,P007,Running Shoes,Footwear,80,3,240,Completed
+b3ccfd6f-ac65-401d-b0b9-9dbecc60148d,28-03-2025,4e6eca5e-b66d-460f-95a0-342fa7de3132,Dr. Charlotte Evans PhD,South,P006,Gaming Keyboard,Electronics,60,1,60,Completed
+327a6cac-615b-45c3-87f5-315d60639163,04-03-2025,1dc354ea-8513-478b-bf8f-6a16b3677940,Wayne Davis,West,P003,Yoga Mat,Fitness,20,1,20,Completed
+b69f4611-ba24-4802-8352-75a3a8dce598,20-06-2025,cf8ba8c3-6e5a-4cfb-9ebe-fea9b6b4e3d6,Jason Jordan,East,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+92ec4235-ba0c-4fca-85f0-31690a6678e0,30-03-2025,79640497-123d-4c70-9abf-65afeaafebe4,Jeffrey Harvey MD,East,P006,Gaming Keyboard,Electronics,60,3,180,Cancelled
+7c404463-60e5-41e2-8174-0a6066650f1a,12-02-2025,e51070ba-2435-4452-b594-a431917d69da,George Jones,North,P009,Water Bottle,Fitness,10,1,10,Completed
+cec0ac6f-52a0-4e92-ab0e-3210755a336a,19-01-2025,e90b041f-55b4-46e4-95ae-1362a8bb5c35,Rebecca Gonzalez,North,P002,Bluetooth Speaker,Electronics,45.5,2,91,Completed
+eb718e63-a817-4232-a174-335030ef21e6,20-01-2025,b03d5ec2-2120-4724-a543-2998e971707c,Jessica Hodges,North,P009,Water Bottle,Fitness,10,1,10,Completed
+e52bb567-2bbd-472a-8554-f678b7e77e5e,03-10-2024,3c760f49-0d88-4673-90bf-d3d7ea0f50d3,Julia Little,East,P002,Bluetooth Speaker,Electronics,45.5,4,182,Completed
+ac742198-8603-45d7-b234-63998c774ebf,15-08-2024,a979e44c-2eca-4835-8f4f-7c7b4bb25007,Megan Chambers,South,P008,Backpack,Accessories,35,2,70,Completed
+d979c8e6-9590-4539-83b4-3cdeb4fcfcdb,30-12-2024,522becda-fa3c-44bb-bd5d-c16a6023e7a2,David Lynch,East,P007,Running Shoes,Footwear,80,1,80,Pending
+ec475357-76bc-4818-b1eb-ac5c495f81b6,10-03-2025,4849c677-df8e-4084-ad7c-799ac8981314,Joanna Cochran,South,P010,Pen Set,Stationery,3.5,2,7,Completed
+5f55a93d-60bb-4fbe-9dcc-60c77d715bb1,23-08-2024,a3f73621-a1a1-40aa-b4a0-328f038a07bd,Isaac Stevens,West,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+292d73b2-5264-4e88-bc46-be95c0aa0eb4,11-01-2025,4845a56a-ffd6-4ae5-8587-c43508ec38e1,Michelle Thompson,North,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+ee946e48-da8e-489f-8051-e3d58dc6836d,02-04-2025,301d67c9-1184-4c23-90f8-7326249b67c1,Jessica Harvey,West,P007,Running Shoes,Footwear,80,1,80,Completed
+d9ed727d-a04d-48a6-b852-8a61296b2205,08-06-2025,ddac415c-9af7-45d4-ae99-d3358c8576ce,Tina Ramirez,South,P007,Running Shoes,Footwear,80,3,240,Completed
+3ced6ed3-d36f-4dbc-8afc-81a2839c809e,04-06-2025,a8db7df8-e8cd-4f02-aa3f-6ac646154b2a,Nathan Barton,North,P010,Pen Set,Stationery,3.5,5,17.5,Completed
+af5fa17d-5908-46e7-82f7-7535992f3ca8,03-03-2025,58b759a7-b543-4858-bf5f-5dca07cb1642,Andrea Christensen,West,P009,Water Bottle,Fitness,10,1,10,Completed
+43f2e3cd-4fac-43ce-a043-20e741e006e2,07-08-2024,ea5fb51a-307f-48dd-b5ef-8d59f905a1c6,Ryan Hall,North,P005,Notebook,Stationery,5.99,4,23.96,Completed
+120b0529-d04d-4db6-a05e-869201cf94f3,07-12-2024,dafdd738-803f-40dc-9ef7-1c3ddb37eac8,Amy Wilson,West,P001,Wireless Mouse,Electronics,25.99,2,51.98,Completed
+2dfa2e8e-434e-4d3a-aea9-db222c3a33be,05-11-2024,016d20c4-89da-4721-8ea4-17ca55c7fc63,Stephen Gonzalez,North,P009,Water Bottle,Fitness,10,4,40,Pending
+20864325-1ec1-4972-a240-ce15644c4b90,27-06-2025,3560df47-5b74-4dc9-bba7-2581fbb443dc,Kevin Ramirez,South,P007,Running Shoes,Footwear,80,4,320,Completed
+30efc53e-3a9b-4eed-a19f-790ef136af8b,08-11-2024,8deae5bf-d25c-422c-9da4-a1a9b520aa4b,Michelle Smith,South,P001,Wireless Mouse,Electronics,25.99,4,103.96,Cancelled
+879c566f-6bac-4a81-a834-6b0bc121fbe7,12-07-2025,46e2e540-ee02-4db4-8b4c-87e7d3ef5bc2,Jasmine Brown,West,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+c6e2e406-3fd1-4446-aede-c2fbdcc8e95d,10-07-2025,de24460a-c7cc-41ee-b111-52c3fcf6579c,Noah Brown,East,P001,Wireless Mouse,Electronics,25.99,4,103.96,Completed
+03ac5f62-d142-4d40-8dcf-ccbc54b2bfc8,27-07-2024,9be61e49-1c2a-4227-88d5-22a482c5cecc,Ricky Sanchez,North,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Completed
+84b6171e-db16-417f-9b73-1ab7284faed1,26-03-2025,9380afdf-a63b-4b32-bb25-2a853e72aec0,Wesley Williams,East,P010,Pen Set,Stationery,3.5,2,7,Completed
+644eb36d-b026-4724-9175-59a20ef43566,01-01-2025,3cb0edba-1394-4e0c-b74d-4645e90c3b57,Amanda Cruz,West,P005,Notebook,Stationery,5.99,2,11.98,Completed
+873846cc-0154-4b31-85bd-c9851dd69b27,04-09-2024,24233bc0-988f-4189-8888-2e8fbae6e413,Brandi Lewis,East,P010,Pen Set,Stationery,3.5,2,7,Pending
+46542750-3b6c-4ec1-9007-0ac37294873f,15-12-2024,08499b25-da7d-47ba-9f90-568e03d11a3b,Nicole Moore,West,P009,Water Bottle,Fitness,10,3,30,Completed
+80c66049-1f10-416b-ad53-5d74c957c21d,30-09-2024,26ddf99f-7510-4479-950a-5f7664a237f2,Kathleen Martin,South,P005,Notebook,Stationery,5.99,5,29.95,Completed
+af4e2cc6-c476-48f4-ab64-90c4c1dd52f4,14-06-2025,27ced09a-bc55-40b0-92b6-5c88d4f91b33,Jessica Zuniga,South,P004,Desk Lamp,Home,30,2,60,Completed
+d0200461-41bd-4b96-ba05-a1e350d1f404,31-12-2024,8ab5a0a1-d202-4821-beeb-e53944376fe5,Julia Frazier,West,P009,Water Bottle,Fitness,10,3,30,Completed
+ea4c8d1d-0717-48f5-b86e-1d29e87e0eaf,14-03-2025,68f4415d-52da-4577-8867-96cd636deb61,Jeffrey Mcguire,West,P007,Running Shoes,Footwear,80,1,80,Completed
+7ce89ff7-2df7-41c3-b8b5-bf95026d4f39,13-01-2025,13fc22e5-ecf7-45c8-b31d-30882af280e5,Jennifer Hodge,North,P009,Water Bottle,Fitness,10,5,50,Completed
+a52fb26f-33d8-4e8b-957d-6be467e71449,03-11-2024,5dbeb2fb-1f37-46a9-83d2-a804747aab04,Adam Williams DDS,East,P004,Desk Lamp,Home,30,2,60,Completed
+c840a561-450a-4220-a386-7715c3ec43be,10-12-2024,920fc4f8-8562-47b8-a959-69c69a2b7987,Olivia Gomez,West,P007,Running Shoes,Footwear,80,1,80,Completed
+4029d42f-eef2-4cc2-943d-e7bab87758be,20-07-2025,a66cec4d-3438-4cf9-927c-1efa20c74350,Zachary Ellis,West,P010,Pen Set,Stationery,3.5,5,17.5,Completed
+f0d7a7fd-de1c-4e72-8b47-7b926ed67983,24-05-2025,f163d46a-b191-4153-9abc-6b7274158526,Jennifer Diaz,West,P001,Wireless Mouse,Electronics,25.99,5,129.95,Pending
+ab858c91-f8b3-4081-ab77-21735292c866,25-09-2024,28d0ba48-7ecb-410e-8f78-ed80f1065d15,Michael Heath,East,P001,Wireless Mouse,Electronics,25.99,5,129.95,Completed
+d42b1e02-c25e-47d5-9d9d-3be29c5ed156,03-02-2025,22389bb4-9b4e-49e1-ac2a-41ce414f1674,Alec Dickerson,South,P008,Backpack,Accessories,35,5,175,Completed
+eced8654-b758-4072-8f9b-141dc8efbd44,04-06-2025,70c6cb32-3010-4479-a17e-ae07fe162f57,Stephen Stuart,North,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+10501a40-6f62-4dd7-bc8d-756c211f3352,19-01-2025,205820b2-4a0f-423f-b58e-ef33dffc012b,Denise Duran,East,P008,Backpack,Accessories,35,2,70,Pending
+f19075a2-022a-4402-8396-fbd1f3e5b927,31-07-2024,3de2c726-ab73-4ab3-8ef5-13ad9f1810ae,Brian Kelley,East,P008,Backpack,Accessories,35,5,175,Pending
+ae72e316-4906-4f01-9008-c363b13a3c9b,19-06-2025,8fd799b1-04dd-4af6-934e-6dbc1da41dfe,Daniel Riley,East,P008,Backpack,Accessories,35,1,35,Completed
+fedadcde-9977-4388-89f5-39989179b64b,01-07-2025,6d193426-93d9-4f6b-9c23-b3d60bdfea4a,Laura Stout,South,P004,Desk Lamp,Home,30,2,60,Completed
+cdcd8553-b819-4869-a583-40bdc9143352,23-10-2024,fb246a52-d63f-4fc3-994b-38b91e3cdfc4,Amanda Buck,West,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+038ec2df-93b2-4bb2-b402-37775a9254b8,11-01-2025,d7dc4b59-3c2f-45fb-bbb3-c6646449c6f1,Holly Cortez,South,P007,Running Shoes,Footwear,80,4,320,Completed
+67a9638b-8fa9-435f-979c-71c705a6009e,20-02-2025,b775be0f-c48f-40ec-9b5e-f0a7d479e765,Barbara Farley,North,P007,Running Shoes,Footwear,80,3,240,Completed
+73b0c45e-59b1-4a6d-a875-bf8a4b8b9794,05-11-2024,2af6f8ae-08fe-4708-88f2-7047d0a0dfec,Sarah Robertson,East,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+9521d9f0-51ae-40c9-a761-99e4fc88be75,01-03-2025,60b33e59-3da1-40d1-b797-91c4384101da,Andrea Reed,South,P003,Yoga Mat,Fitness,20,5,100,Pending
+ef323c9a-6c86-429a-86f9-4fb86ea7e8e2,26-08-2024,7119e32a-ddb1-46d9-b613-c779cee6f660,Lucas Wagner,East,P007,Running Shoes,Footwear,80,3,240,Completed
+f6a2e557-db4a-4555-b568-4ad93ee1a7f8,11-09-2024,bd7c1fe2-7e38-4260-bb0e-73521237ea4f,Emily Smith,East,P005,Notebook,Stationery,5.99,4,23.96,Completed
+af1cf6d5-450a-46c8-9c44-982e28b2629c,14-01-2025,27e442ed-44f4-484f-bf39-20a2a0328212,Joshua Garcia,South,P010,Pen Set,Stationery,3.5,2,7,Completed
+552789f6-e72a-4c94-b89e-b3ba57fe9381,24-10-2024,914f688b-3f2a-42a0-844f-eab8b895eb70,Brittany Branch,West,P009,Water Bottle,Fitness,10,4,40,Completed
+36f2a6f3-8023-46d4-940f-1480bb1a1328,13-08-2024,4f11fb04-0de9-4722-b751-14a68508d832,Paul Rodriguez,East,P010,Pen Set,Stationery,3.5,4,14,Pending
+5610dc4d-4725-4fb9-99fe-29da34839a15,12-01-2025,1efd238b-89b1-496f-b446-ed83c1ba10ef,Christopher Lutz,South,P005,Notebook,Stationery,5.99,5,29.95,Completed
+2d3dac2e-cc75-4351-bc90-042add15bb2b,04-07-2025,92e115da-6be6-458c-b5a2-c34817530958,Michelle Kemp,East,P010,Pen Set,Stationery,3.5,2,7,Pending
+2ac0cec0-cd1d-49f2-9b72-a58d30fdce8b,16-12-2024,4c2234bf-7f43-463c-b7fa-020af1ca4a2e,Diana Campbell,South,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+e88268ad-f927-4a86-b0f5-175cdf8ba2a2,25-08-2024,dc579889-b083-4cab-ad5a-44c516f90af1,James Mitchell,West,P010,Pen Set,Stationery,3.5,4,14,Completed
+2c76ae77-9800-4995-a503-087b4cd14035,16-01-2025,4c87d035-e713-4258-a207-326edacec8bc,Tammie Schroeder,East,P005,Notebook,Stationery,5.99,2,11.98,Completed
+f2da2fd4-ae20-420d-9a6a-7a5a552f628f,28-08-2024,56221fcd-2a6b-45ce-8671-2cf20d0691ac,Matthew Bowers,West,P008,Backpack,Accessories,35,4,140,Completed
+0e73300a-c14d-411e-a3d2-c9a96f0cde79,31-08-2024,7bf376d4-60b8-4106-be06-41a9d371fed8,Francis Huber MD,West,P009,Water Bottle,Fitness,10,4,40,Completed
+343fbea1-3379-4302-b274-7102bd544bbb,27-11-2024,3aaf35dd-9220-4173-80f8-07f9747ef83d,Mary Martinez,North,P002,Bluetooth Speaker,Electronics,45.5,4,182,Completed
+e09db38b-92f3-4d0d-a5ed-bc2460af4f53,05-11-2024,b8189ef4-2eea-437a-b010-97a6776d1ec2,David Rhodes,North,P001,Wireless Mouse,Electronics,25.99,4,103.96,Completed
+91c2b492-6df5-4263-8f3e-04d3cba098f7,04-01-2025,b7325d00-c5df-4cc8-9968-05f3cb4dd8c0,Chad Perez,East,P006,Gaming Keyboard,Electronics,60,3,180,Completed
+cdc99e4f-7006-4570-9144-e19821258436,28-11-2024,104ff35a-c8c0-4c1d-a363-f65a5827d8a7,Erika Long,West,P004,Desk Lamp,Home,30,4,120,Completed
+5ce31b6a-f356-4f96-88bd-634913efb595,05-07-2025,ce588a8b-4aef-4920-ac3b-b607be170662,Mr. Paul Moore MD,South,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+d8ba7038-d57f-49a7-8b96-77cd81f2c2dd,21-12-2024,2f4c804f-a0d8-41c9-bf6a-51343e7798e5,Kevin Davis,West,P009,Water Bottle,Fitness,10,2,20,Completed
+3bb7986a-cf04-4637-a94a-413bc1518600,07-12-2024,59078401-0397-46cd-b5bf-09a50e8e0d32,Sarah Johnson,South,P007,Running Shoes,Footwear,80,2,160,Completed
+db81a615-4662-4967-ac8f-eb309f9401fe,11-11-2024,98841b3f-d1b1-4ee3-8965-f79cf25e4c3c,Colin Bradford,West,P009,Water Bottle,Fitness,10,5,50,Completed
+f378fdb9-ed16-43ab-a462-8dd4f7d2f400,12-04-2025,5a676f94-3389-443a-bcfa-487ddb08b2a1,Dawn Mcmahon MD,West,P007,Running Shoes,Footwear,80,2,160,Completed
+b56623c0-ef51-40cf-8339-24fea11e843d,22-02-2025,f7947db1-adca-4d38-ac66-9e7c86f3f6e6,Stephanie Cruz,East,P001,Wireless Mouse,Electronics,25.99,1,25.99,Completed
+f708ad42-92ec-43f2-848d-d3151cfa39a6,01-11-2024,1cd7fa8c-e93f-4f35-8a97-aabfeb8904b3,Michael Norton,North,P006,Gaming Keyboard,Electronics,60,1,60,Completed
+5c1eb4d3-3d3d-453a-b125-13a860a0f2e6,26-10-2024,b7f001e8-2bc7-4ab1-a037-ccd5d48127a9,Mrs. Kathleen Johnston DDS,South,P006,Gaming Keyboard,Electronics,60,2,120,Completed
+ce9fa79e-62e4-4500-ba12-6e0b526c94a1,12-02-2025,a6332e90-3be0-4ce0-b3b8-5fbf9c09d695,Helen Dawson,East,P007,Running Shoes,Footwear,80,3,240,Completed
+e55d7730-f319-45ba-ad8b-2c14b8b19e0d,21-09-2024,0e8c78d7-2eb9-4c0b-8bdd-a52b64b27004,James Hill,North,P009,Water Bottle,Fitness,10,5,50,Completed
+f613ca28-0e6c-47c9-b4df-a6e197d70b61,14-12-2024,8d20380f-7293-4796-bfa9-57a9c8b5c878,Sheila Shaw,East,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Completed
+e9f7529c-3abe-4a6d-860c-93bf90d65a78,13-03-2025,61cc54fe-6660-409f-9426-206cd3fe1b3a,Jason Williams,East,P004,Desk Lamp,Home,30,4,120,Completed
+f35a8906-deef-4f1c-9091-26949bb70544,13-01-2025,69bd7392-81be-4139-9b44-f04b3619a2e2,John Short,South,P001,Wireless Mouse,Electronics,25.99,1,25.99,Completed
+2a6787b9-55e9-4e30-9977-0e36385f51cc,26-03-2025,1acba81b-3970-4e0a-acef-c745e7a62c5a,Catherine Flores,North,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+8ff3e6f4-2167-4c48-a51a-e212ed06cf11,30-11-2024,e9a20438-e3af-498d-9793-77b0f3df3e9e,Brian Barker,West,P002,Bluetooth Speaker,Electronics,45.5,4,182,Pending
+bc4918f3-5f3b-4159-a024-3e314477e97e,30-09-2024,c69b3402-eb16-433b-90f2-7945aa539460,Keith Gonzalez,East,P010,Pen Set,Stationery,3.5,4,14,Completed
+fa06f280-1cea-41cf-a342-d7bfecc094cc,24-02-2025,a509c48c-9c38-407f-804b-5d5fde69f4aa,Tammy Snyder,West,P005,Notebook,Stationery,5.99,5,29.95,Completed
+52a428ad-e1b9-4d0b-90de-e3511c1bb406,04-11-2024,0a3b1b0a-a41d-416b-bad3-04d2bfa72951,Kevin Bird,South,P003,Yoga Mat,Fitness,20,3,60,Pending
+51fe1d7c-0458-489b-9c25-0eee923ad185,02-02-2025,063f5a55-50e8-4036-bd2d-c362fb88a9e2,Paul Williams,East,P009,Water Bottle,Fitness,10,4,40,Completed
+409bb95e-5e98-4587-8901-e58df25b9253,13-05-2025,c709ae8e-e662-4fad-9817-d0f4962b4a65,Nicholas Jackson,West,P006,Gaming Keyboard,Electronics,60,1,60,Completed
+f97c85b2-ff1d-4610-9d9d-38f3ff29b6e6,20-06-2025,21125c9a-132a-4b67-8ff9-a2208d213031,Robert Sexton,East,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+09e0ac1c-e593-44ab-898d-2ad8ae5b7f52,31-07-2024,1b180f1d-bd5d-411d-981a-8ec7c25ba4c2,Kathryn Garcia,North,P008,Backpack,Accessories,35,2,70,Completed
+628c74fd-fb4a-4a5b-a66f-a67b338c6324,26-09-2024,c6cd6674-129c-4803-947a-9659dc6b6afd,Carla Clark DDS,West,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+f738f60c-2561-4f9a-85b5-663e2ead482f,14-01-2025,7703840c-6771-48c4-8e95-d49ba16b1133,Nancy Buckley,South,P003,Yoga Mat,Fitness,20,1,20,Completed
+f1e56b85-365c-4808-9f93-b4cd6d88e916,11-08-2024,2a0e1ce2-a163-4156-b1a8-0b328fa5fc73,Charles Garcia,North,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+e0666b88-b91b-4572-b0d6-777c6a329afc,10-11-2024,e1d7b5e7-c229-4d04-837a-dfb9d68c1acf,Amanda Phillips,East,P009,Water Bottle,Fitness,10,1,10,Completed
+594fd117-8332-4387-86be-2a5d7eee8eb5,09-10-2024,b8d9af65-c8c7-45be-b83b-7adbc4088aaf,Mary Jensen,East,P005,Notebook,Stationery,5.99,5,29.95,Completed
+f4a9bdb7-f0bf-4efd-9754-07f8d1b6d897,17-07-2025,dfdfeb65-7075-42da-a638-db85c458fa42,Mr. David Foster,North,P001,Wireless Mouse,Electronics,25.99,2,51.98,Completed
+dba169d0-0209-4011-bb51-e5e077875389,06-10-2024,dbcc5a69-3b88-4015-9a9a-56d44193235f,Laura Figueroa,West,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+1c073bc5-31c2-4eca-80dc-72892b18aedb,15-07-2025,df0d7919-2330-474d-9ff8-f746ed2311a4,John Colon,North,P010,Pen Set,Stationery,3.5,4,14,Completed
+dcb86a1a-67f9-4342-bed1-9403545b6dd8,06-12-2024,7c573093-ddec-4149-b0b2-8152794035d4,Amanda Dunn,East,P005,Notebook,Stationery,5.99,2,11.98,Completed
+b026ddf9-9522-4328-abb1-784587edfe94,25-09-2024,bf2e94c0-4e88-498a-b4ca-c9a89419ffcb,Mr. Joseph Adkins,South,P010,Pen Set,Stationery,3.5,3,10.5,Pending
+9cc40e0c-6378-4a12-ae40-397fd80c1abf,25-03-2025,f013521d-0abb-45d5-a5aa-c96440eaa5ce,Matthew Dillon,East,P003,Yoga Mat,Fitness,20,2,40,Completed
+065f938d-380f-45cd-b217-9ea3a17a65b7,30-10-2024,d1bee10b-0952-48f3-9e64-a0d437d32120,Scott Hendrix,North,P003,Yoga Mat,Fitness,20,1,20,Completed
+f6a8bd4d-c0bd-4689-94ad-7dbd38594be7,04-11-2024,31a0766d-fba2-4181-86e6-70aa153ce325,Crystal Smith,North,P006,Gaming Keyboard,Electronics,60,5,300,Completed
+8e47ac5b-5628-4f7b-84f3-6b8bc425f025,21-06-2025,c2e157da-71d7-4d88-a0dc-3831992c4437,Patrick Gonzalez,East,P008,Backpack,Accessories,35,5,175,Completed
+d55af814-156c-4edd-9f96-e12d9844934f,03-02-2025,261ea8f9-d17a-4447-bf73-bbd2d77edec4,Juan Cortez,East,P009,Water Bottle,Fitness,10,1,10,Completed
+935ed0fa-1568-4692-8743-0392de363fca,13-06-2025,f5353d65-0f3e-4d44-ad6a-1b98b43d6e43,Sydney Larson,North,P004,Desk Lamp,Home,30,5,150,Completed
+f5186eea-f52e-45c2-87dd-df9fccbe08c6,21-04-2025,e31af5e2-0824-46f0-be19-d8c448dee3e0,Bradley Parker,East,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Completed
+08ebacf8-784b-44cc-9d2b-a9bd319483af,18-02-2025,d868e2a6-e3fb-47fd-ac23-ea84f88e4cd2,Brandi Green,West,P007,Running Shoes,Footwear,80,1,80,Pending
+9df1b2a6-5c43-4c0c-a54f-8d32c7557ffb,12-05-2025,6d8f7eec-99da-4f0a-bed0-731587a8481a,Christine Sweeney,East,P009,Water Bottle,Fitness,10,4,40,Completed
+1e2528c4-729e-459b-83c2-4e7f5b92f4e7,31-03-2025,ee0a19f0-5f3c-4674-aef4-d89058104d22,Donna Lopez,West,P007,Running Shoes,Footwear,80,1,80,Pending
+18368a48-20df-4f4f-828a-99004b7613b1,21-10-2024,1c350ff2-295d-4389-8b18-a9268b0e4a01,Erin Brown,West,P009,Water Bottle,Fitness,10,1,10,Completed
+f4c8070f-e52a-40f9-be1a-57a6c1370989,25-03-2025,20316b28-7857-4b50-96ef-e5d222841612,Todd Howard,East,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Pending
+4c39f5a3-d24c-41af-ae50-076846d072c4,05-11-2024,76df95ad-9f0e-4336-8e6c-469b638aa1dd,Barbara Gomez,East,P001,Wireless Mouse,Electronics,25.99,1,25.99,Completed
+7b705157-dba3-4dad-9bde-64c4a1333b97,12-09-2024,5f365e42-35f9-4349-a8be-3cae7135b271,Jason Riley,East,P001,Wireless Mouse,Electronics,25.99,3,77.97,Completed
+0ea51717-41b4-4f71-9ca0-dabaffab1727,03-04-2025,b59d0c21-bc60-4361-862e-a9ee74b8c946,Paul Patel,East,P009,Water Bottle,Fitness,10,1,10,Completed
+128d84f3-ae23-4f5a-a83e-337735bbe971,09-06-2025,b6832ea5-468e-4694-bf1b-035568fc5886,Mrs. Robin Green,North,P003,Yoga Mat,Fitness,20,3,60,Completed
+1d6ee5bb-25ad-4d88-b8f8-d6fa9afbd9f1,17-02-2025,138d7f88-2997-4ffe-bc1f-06795906ad3b,Veronica Reese,South,P004,Desk Lamp,Home,30,3,90,Completed
+51b20d84-16f9-4852-8919-94ce8dc948f1,08-10-2024,408e46f6-f3f1-499a-aeee-6db53272ab01,Jason Jimenez,North,P009,Water Bottle,Fitness,10,5,50,Completed
+585f36ee-f81b-4811-8e74-14e5c081012d,03-01-2025,ba3f9c42-bf48-406a-8e52-54efa91aafb3,Matthew Love,South,P006,Gaming Keyboard,Electronics,60,5,300,Completed
+683d9241-6527-4c61-9d9b-8b3273898db5,15-10-2024,dfe293bd-59b7-4636-8092-505ed6b8fdc3,Jacob Wade,North,P009,Water Bottle,Fitness,10,5,50,Completed
+cd661ccd-9c02-458f-9287-444ba10a8630,27-07-2024,7e04675b-43ea-43f4-9c21-7cc6cab72569,Emily Day,South,P004,Desk Lamp,Home,30,5,150,Completed
+ee35e57c-f1a0-443f-ae89-c78b98e4d6b9,24-10-2024,d710af83-7ccd-47c0-aa90-67145767ee6c,Jason Bolton,East,P008,Backpack,Accessories,35,4,140,Completed
+1349f897-88d4-4aee-8fc8-0698bab20ecb,17-05-2025,41344460-3fa7-43bf-91b7-1273e9c404e9,Jared Rodriguez MD,South,P003,Yoga Mat,Fitness,20,1,20,Completed
+b1108e84-4f86-4322-96d6-2c96fc86138f,18-07-2025,c40cc9a0-7854-4e35-ab4f-f6d39678bf35,Deborah Nelson,West,P004,Desk Lamp,Home,30,5,150,Completed
+079fcc51-c27c-4ac6-9b8a-bb64f20424ff,28-04-2025,9942e0ed-6454-40e6-9bcb-9c9b66af2311,Tanya Barnett,East,P010,Pen Set,Stationery,3.5,2,7,Completed
+fbd73272-d791-4f97-83ff-11362ba9fe7e,23-05-2025,26488fe6-3b63-43e5-8ca1-e807ccd8ce24,Gloria Rios,West,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Completed
+4b361401-090e-48a7-898a-b453ce05f7e4,01-07-2025,46d0c3a9-a13f-4bff-8266-61c4ae0da805,Angela Schneider,East,P007,Running Shoes,Footwear,80,5,400,Completed
+ee4004e0-e4fc-44d0-91dd-e95a2301757e,07-07-2025,7332851d-9b32-40c5-ae82-f6b81f258fca,James Leonard,South,P007,Running Shoes,Footwear,80,4,320,Pending
+4481b946-0c5a-4904-aa09-5e7738cc073c,12-03-2025,11bbd34d-7e10-4ab7-b7ce-5f6ce6089bcc,Corey Davis,West,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Completed
+b5392af9-c961-4307-9dbe-0364b54da5ee,18-09-2024,5cdce707-ab4b-4a61-8386-80eac49a4ce3,Richard Kelly,North,P006,Gaming Keyboard,Electronics,60,3,180,Completed
+27ecc22b-56d3-4e56-9d87-46ca44d6f418,07-08-2024,f28c1cad-ed6f-4774-a41c-045a47cb0ec8,Elizabeth Vasquez,North,P007,Running Shoes,Footwear,80,1,80,Cancelled
+4f4d761c-2baa-4069-b063-ffc826f2bd04,18-10-2024,161b428f-7898-43cd-a1f9-aa3a85f86e78,Janice Blair,East,P009,Water Bottle,Fitness,10,1,10,Completed
+6fd77467-13fc-4f28-8627-1904d1d9091f,11-07-2025,dd7d0701-dea8-4b4d-b2e3-9438d0e533f2,Jennifer Jensen,West,P007,Running Shoes,Footwear,80,5,400,Pending
+4ef5581e-23bd-4d71-becc-cf5a4180dd5e,23-08-2024,febb2eb3-8d72-4aac-9f40-ae516e00d9fc,Steven Smith,North,P002,Bluetooth Speaker,Electronics,45.5,4,182,Pending
+07bc655b-80a8-44f5-9e3f-ba660836d38a,31-10-2024,184c019b-3d3d-4244-b115-3b1e9df59840,Deborah Howell,East,P001,Wireless Mouse,Electronics,25.99,1,25.99,Completed
+64717385-194f-4b6a-a18b-fd068c7187da,03-12-2024,d5e5e6cc-5be1-4e70-a3fa-9f99b02c488b,Erica Williams,North,P007,Running Shoes,Footwear,80,5,400,Pending
+b2c788e7-a79f-4ee0-9ef9-cae7e58dd5ea,05-11-2024,9a119a3a-4194-4e5f-bb7b-b9add6c9fea1,Kimberly Zimmerman,South,P007,Running Shoes,Footwear,80,2,160,Completed
+25b58dab-de39-4f42-b843-6e51d1067b56,03-09-2024,f15b847a-3928-4595-8436-31e2643d2f05,Joanna Wolf,South,P009,Water Bottle,Fitness,10,4,40,Completed
+d33e4b6e-c7e3-4506-a085-2050e301e53f,06-05-2025,1eb49460-3742-4b19-8c80-ddd7c99c2cd2,Jason Sims,South,P005,Notebook,Stationery,5.99,3,17.97,Completed
+27a0b562-cec6-4b20-8a2b-aaef004afdb3,09-06-2025,081b58ff-d8c6-4688-a88e-eeef9313a458,Matthew Cole,West,P001,Wireless Mouse,Electronics,25.99,4,103.96,Completed
+96993e64-5fd6-4d0c-9d49-7ad2481f50bb,03-11-2024,4906b239-1d50-4426-8f71-9803f4e5b213,Kristy Butler,West,P003,Yoga Mat,Fitness,20,1,20,Pending
+cbd0b5ee-fab3-43c3-9869-ed4de93cb058,21-10-2024,8a1308b3-0286-4606-a430-2913eba38bd4,Michael Church,South,P003,Yoga Mat,Fitness,20,1,20,Completed
+5e1e22fb-7dd2-4ced-8eca-ff62b6f5d003,03-03-2025,06393d61-8843-492b-a66c-34e44dc1a7d9,Brian Coleman,North,P004,Desk Lamp,Home,30,5,150,Completed
+846b92c3-b28e-43a7-aa77-c07fd3200b93,12-03-2025,72a70dd3-2d20-4262-b84a-3cb8be932b79,Tina Johnson,East,P006,Gaming Keyboard,Electronics,60,3,180,Completed
+f0ef2dff-0d95-4ef8-968d-168a95bd9143,30-06-2025,d8f32a45-d90d-4a76-ab3f-05c171b30c83,Jill Shah,East,P004,Desk Lamp,Home,30,4,120,Completed
+0d0f568c-9f5f-4c1a-80b0-c12fc00c19af,17-01-2025,dedb2425-bb0d-45fd-a7d2-f179bd80da77,Richard Smith,North,P007,Running Shoes,Footwear,80,1,80,Completed
+519d835f-c13a-4115-8fec-cfc1a535a9b8,19-08-2024,b3bca64a-65f7-46dd-a546-0416484b248b,James Hoover,West,P005,Notebook,Stationery,5.99,3,17.97,Completed
+cafbed07-bab3-4338-b100-d3c444c2da85,04-09-2024,779f3646-7dc8-40db-bd96-763048e5e834,Richard Johnson,North,P003,Yoga Mat,Fitness,20,3,60,Completed
+dd09d859-e018-425d-8ca3-29c679bd7c63,26-10-2024,838276a3-f9c2-4588-9e4f-da9d97fbc2ba,Cathy Brown,East,P005,Notebook,Stationery,5.99,3,17.97,Completed
+e418e3df-823e-4cde-9128-43d3accf5423,28-01-2025,abd216df-c472-4593-8d57-4fe0b3470d9a,Kenneth Howell,West,P006,Gaming Keyboard,Electronics,60,1,60,Completed
+9236b9ba-8e70-4fe3-a128-89a4f491cec7,15-06-2025,8d038865-a42c-4707-803b-0c9b5ca18099,James Singh,North,P010,Pen Set,Stationery,3.5,2,7,Completed
+193dfc0c-7267-4fad-a5f3-fc8e4a6ef393,12-06-2025,d1ff60e6-f3f3-4cb4-9ac2-9cacc3e5ba7a,Dawn Hunter,East,P008,Backpack,Accessories,35,1,35,Pending
+edd7e390-3d59-4e87-abfd-a763604ba10a,22-09-2024,2e71cc30-2ad1-497a-90ff-1f94f98dd85c,Monica Green,North,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+d28f9a54-a8b2-475a-ae6b-8153596696d9,07-02-2025,0b2a10f0-5a8e-4a54-87fb-98fe95b2cac4,Rebecca Davis,East,P009,Water Bottle,Fitness,10,4,40,Completed
+d9e94fe4-bfd2-479c-aee5-c6f163565d9d,12-03-2025,26eec0de-ef1f-4eac-9931-1df5e3acc370,Eugene Smith,South,P003,Yoga Mat,Fitness,20,4,80,Completed
+2feb0021-75c3-4975-b4c8-4d82cea03e47,12-08-2024,70d3bab8-29a7-4524-b8fc-383f6a1dc36c,Lisa Zamora,North,P005,Notebook,Stationery,5.99,4,23.96,Completed
+bbd1d476-b08a-4898-93bd-0475a5cee0a2,25-05-2025,01b1a5ce-3a1e-47a2-907a-3d793ce5e773,David Mcneil,East,P004,Desk Lamp,Home,30,1,30,Pending
+866402a5-c917-4c17-97c6-8c0e8e925b98,18-02-2025,a93f9b7b-33c3-446b-b9ff-6803395b5a59,Amber Mccoy,East,P006,Gaming Keyboard,Electronics,60,2,120,Completed
+9422ecf9-bdfd-49a7-b993-a796264284d5,11-07-2025,53f133e5-fe84-4d1c-8bcf-78472c216d56,Katherine Meadows,South,P005,Notebook,Stationery,5.99,3,17.97,Pending
+44052832-c129-4d01-a359-036631b61e44,21-10-2024,3ae0a102-72fb-4f7d-b278-695c3b2348b3,Matthew Stewart,North,P008,Backpack,Accessories,35,1,35,Completed
+04436da9-e029-45e7-b2f1-d4e71188ca17,06-04-2025,f3c3502e-adac-458e-b9cb-3f602230e0ef,Jeff Tucker,East,P007,Running Shoes,Footwear,80,2,160,Completed
+8922bc93-b861-47d0-9979-447b90398a28,11-12-2024,e0197346-53c1-41fe-95ec-2ef893d5be31,Ryan Black,North,P001,Wireless Mouse,Electronics,25.99,1,25.99,Completed
+1300700e-9d81-4099-b25b-37f60e39ee65,19-10-2024,1ffc05c3-2ec8-43b1-a6bb-b295293f8298,Anne Wilson,West,P009,Water Bottle,Fitness,10,1,10,Completed
+e0f92198-7dfb-403a-bc16-3ca446e51a1c,10-11-2024,6e090323-71dc-4900-990c-2548eaf9a033,Mitchell Cook,West,P010,Pen Set,Stationery,3.5,2,7,Completed
+05a0e466-e10b-47ef-b872-1c1aa90520e2,28-11-2024,490ca359-ee48-4e86-8148-8530151c8a23,Craig Stevens,West,P001,Wireless Mouse,Electronics,25.99,4,103.96,Completed
+46a25921-3247-4b71-9b6a-54826e1a398c,25-03-2025,ce8d5c72-0b7e-4e48-b9a9-1280d55704aa,Justin Smith,West,P002,Bluetooth Speaker,Electronics,45.5,2,91,Cancelled
+1329ddfd-251a-49bc-b435-5374624a4162,17-07-2025,7ae9d4fb-29c5-420f-bae5-23b9670a0fc9,James Brown,South,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+7bed7111-6b25-4c69-a3d5-e818705089d7,16-01-2025,b0116ac0-45bd-4cd1-ba30-0f9c20a070bb,Michaela Romero,East,P004,Desk Lamp,Home,30,5,150,Completed
+175d4bfe-781a-427c-b769-e2e8d32128c3,06-08-2024,d1667c6f-7782-4b96-959c-8977c2775002,James Brooks,South,P010,Pen Set,Stationery,3.5,4,14,Completed
+ea78b2f8-8ccf-4818-b4fb-925e344cd528,10-11-2024,db7a3312-96b6-4c6a-b810-dd6540fdfe76,Dennis Weber,West,P005,Notebook,Stationery,5.99,4,23.96,Pending
+a8625703-3de6-4f12-ac3c-703e9eb275bc,20-03-2025,e97f215f-14c6-4097-85fd-7b9702ec174b,Ryan Moore,East,P010,Pen Set,Stationery,3.5,4,14,Completed
+75ea07ed-7840-417c-9080-02d644e7ab90,12-09-2024,d692531b-a817-4ec9-b37f-6cea2d8a2789,Daniel Shah,North,P003,Yoga Mat,Fitness,20,1,20,Completed
+1e8952c2-e807-48c7-9638-b8f1187e1e9a,01-10-2024,8890f513-68a8-4cb9-92b7-44bfd7c3d937,Amy Wallace,West,P002,Bluetooth Speaker,Electronics,45.5,4,182,Completed
+f443c75c-497e-41df-8a09-c2ca18ed2425,06-04-2025,2d742a28-52cb-4f07-bc55-63a109b03419,John Brown,East,P002,Bluetooth Speaker,Electronics,45.5,4,182,Completed
+ae25ecec-baba-452d-a92e-cc0281d76a89,27-12-2024,10d5d7b1-f13a-4ae1-a778-a10d6e1777f8,Pamela Russell,East,P008,Backpack,Accessories,35,4,140,Pending
+23894d58-0e3b-4357-ac0c-c79b80194582,15-04-2025,3c91046d-0f58-4811-8baf-e9ea21398f82,Ricardo Kennedy,South,P005,Notebook,Stationery,5.99,3,17.97,Cancelled
+cb4b4fea-7b4b-4116-bd5a-a4e3a40c3a67,15-11-2024,052e796b-cdb0-4f25-ac19-43ff79e294f7,Jeanne Keller,North,P003,Yoga Mat,Fitness,20,5,100,Completed
+26a785ea-544b-4291-9b7e-9d84fb91fe07,28-06-2025,b2b589e8-1e55-4b96-b973-c6bb9d26bd7c,Madison Reed,North,P010,Pen Set,Stationery,3.5,5,17.5,Completed
+56589450-a7bf-44e0-b8a4-601f7cd7f483,05-01-2025,78fb0728-cf82-4d12-b369-a5ea1fe5bbde,Richard Schneider,North,P003,Yoga Mat,Fitness,20,3,60,Completed
+77f4588b-8443-48cb-8cdc-1bc665c069ba,31-12-2024,be8c394b-643e-4b48-9731-b29e28a62794,David Burns,East,P007,Running Shoes,Footwear,80,5,400,Cancelled
+e80c87f8-4df8-420e-bd61-743fd12685ff,19-03-2025,c0dcc1c9-2bfd-466f-b9c1-7c5ed8d5790f,Brent Hogan,North,P007,Running Shoes,Footwear,80,1,80,Completed
+1630c732-fd2f-46a6-a010-72b386ada6a8,08-03-2025,7f1e55a9-a4d5-4e5e-84d0-049bd534de27,Kelly Robinson,South,P003,Yoga Mat,Fitness,20,5,100,Pending
+602932c2-dfcc-4198-948f-cb8e95a996c9,28-09-2024,b9c39032-9bc9-4ed2-bd1b-9183ccb399fb,Debra Harper,East,P005,Notebook,Stationery,5.99,1,5.99,Completed
+3d21de40-66b0-43c0-a4af-def2eaa02f99,21-09-2024,8190ce64-62fd-4994-89b0-577e8dfd045e,James Alvarez,North,P007,Running Shoes,Footwear,80,3,240,Completed
+1316941b-8109-4004-afde-297ed2e9c1fd,22-03-2025,44a73530-9652-4b7d-9687-443e5fd3a158,Julie Webster,South,P007,Running Shoes,Footwear,80,3,240,Completed
+99a367ee-7911-4d39-adbb-25a0177d8e3e,30-01-2025,ba05f069-20c5-436e-bdf4-f5a78b992210,Margaret Shelton,West,P010,Pen Set,Stationery,3.5,3,10.5,Completed
+94ef575f-cdbd-484f-b247-37646693b294,01-03-2025,43650113-6b45-40e6-92b7-01abcf80c40a,Ruben West,East,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+ce8ff3f8-d9a7-462c-a912-ac6600ad176c,23-09-2024,524f082a-83a9-4abd-a22b-f03ea2280ce6,Frank Espinoza,East,P004,Desk Lamp,Home,30,4,120,Completed
+32fde1fd-5dff-4fad-9581-e55768693bf3,13-06-2025,128fbefc-e993-4fdf-b2ca-8e437887cb90,Crystal Wilson,West,P010,Pen Set,Stationery,3.5,2,7,Pending
+e6107ef0-4be1-44b7-bbbd-a159ee14d06a,22-05-2025,95d42448-8f4f-420c-b568-8872beff7ae2,Krista Campbell,North,P008,Backpack,Accessories,35,2,70,Completed
+d96a3c43-290d-42fd-a81f-43f629f497ba,02-09-2024,7259bdbc-4d22-442c-b8a0-bb8c06310a7e,Lisa Taylor,North,P006,Gaming Keyboard,Electronics,60,1,60,Cancelled
+ea4dd551-3bd7-4292-bad5-604a227d45b6,20-05-2025,07fd6a5d-1c3a-4337-b931-6723a9ef56e6,Stephanie Mitchell,West,P002,Bluetooth Speaker,Electronics,45.5,2,91,Completed
+68098ecd-77ca-441b-8ab5-72aef28787cd,08-02-2025,618f1d65-f93f-45a9-a689-8ff5d3b75d63,Jessica Hernandez,South,P005,Notebook,Stationery,5.99,3,17.97,Completed
+873783b8-5044-4948-a077-8ee48213a0d2,14-01-2025,5d194b44-8fe2-4e3e-a783-dd0ed8db2f7c,Raymond Gutierrez,North,P004,Desk Lamp,Home,30,4,120,Completed
+bdb87d3e-43df-45e7-ab88-7eaa6968ad8e,08-04-2025,962e9d2b-6987-41ae-9d12-085ddad71383,Elizabeth Adams,South,P009,Water Bottle,Fitness,10,1,10,Completed
+0aec2f24-e14d-4243-b3f8-2a74b9e5a711,23-07-2024,95c56b59-d7be-4ee1-ab95-463d8fa039fe,Shannon Bell,North,P001,Wireless Mouse,Electronics,25.99,4,103.96,Completed
+3054fd59-5b03-4ee9-be6d-0a38a6a406b2,12-05-2025,3bc3ca72-7164-4c71-96e0-ef72719454a5,Tara Lee,West,P003,Yoga Mat,Fitness,20,2,40,Completed
+229b419c-92c9-4573-b5f8-0a623e085435,20-04-2025,852e9706-73b5-45ae-83ae-b4ec8a5838f6,Anthony Nelson,South,P007,Running Shoes,Footwear,80,5,400,Completed
+3ff7fbde-87d6-42d5-80fc-b12b734da3c5,15-07-2025,c818fec3-453f-408e-8e03-16121a6033c7,Jessica Bailey,East,P008,Backpack,Accessories,35,4,140,Pending
+326d0e70-ff9c-4673-9a5d-0f6d0121ccc8,28-07-2024,cf97bf8b-9909-4782-9c8c-c235831b52b3,Seth Sanders,West,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+0b4658ce-3f13-4307-8fbb-d70852de7c17,10-10-2024,71a806e9-0b57-4c46-942c-8b0aff778a46,Steven Thompson,East,P010,Pen Set,Stationery,3.5,5,17.5,Completed
+c4995df3-2b3f-4009-84d0-b036e00e2f07,26-07-2024,8820bd12-3728-48df-9c4f-bc86c30c18dd,Christina Adams DDS,East,P005,Notebook,Stationery,5.99,1,5.99,Completed
+756fd6da-14f8-49bd-a938-26e00c95e578,16-05-2025,af211e5a-8d28-4edb-80eb-466a28bd0fee,Matthew Butler,East,P007,Running Shoes,Footwear,80,4,320,Completed
+ef2cadf5-0fde-4957-a517-baf4db72ead2,02-06-2025,5b4d04d0-4d05-42c5-917a-b8df06b44df2,Linda Thompson,East,P009,Water Bottle,Fitness,10,4,40,Completed
+8916605f-9356-4b4f-8ddc-0887db9a5aca,29-11-2024,b67145f5-486c-4161-a6d7-88703a3e2505,Norman Frank,East,P001,Wireless Mouse,Electronics,25.99,2,51.98,Cancelled
+e307de2b-806d-428a-8d32-0f5fc708664d,04-06-2025,7db9757e-b56f-4210-b68b-49c1c639fff5,Justin Lowe,South,P003,Yoga Mat,Fitness,20,3,60,Pending
+fa3706de-9c47-4818-9685-52710b08b93b,20-01-2025,69dd9825-52c0-4328-814e-f527d59acff9,Tommy Cox,North,P004,Desk Lamp,Home,30,3,90,Completed
+361ef20e-7c45-46b3-8bd0-f81a15d521d8,13-12-2024,920fed75-9021-4210-81c4-4accc35f0734,Oscar Davis,West,P010,Pen Set,Stationery,3.5,1,3.5,Pending
+5b526889-37d7-4d80-8157-de36846a0fb0,14-11-2024,ff4926d0-1b37-43fc-b9e9-8980ed8ee994,Jason Harris,East,P006,Gaming Keyboard,Electronics,60,1,60,Completed
+808a60be-acbd-4402-94f0-918f2b8ae2bf,28-05-2025,916add0f-ec67-4cc4-99bc-97bd835ec83a,Alicia King,South,P003,Yoga Mat,Fitness,20,4,80,Cancelled
+a57bdc05-dc9b-4747-9bf3-8335b9e63530,29-05-2025,e7aac9fe-5a39-4bbd-bfe1-2945a29f2c63,Eugene Davis,North,P010,Pen Set,Stationery,3.5,3,10.5,Completed
+daf97978-1f95-48dd-856b-6ee066ee7cd1,02-09-2024,1f465bcd-449f-424e-b30c-b3ef50cbee0d,Michael Wu,North,P003,Yoga Mat,Fitness,20,3,60,Completed
+e558ce01-b7e4-46bf-83ca-735c63032bdf,18-09-2024,bdcb4b4e-bc3c-41c9-b9be-199acf047474,Matthew Pineda,South,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Pending
+019115e2-336b-473f-b54f-bacaed37d126,25-11-2024,8fb1c433-f94c-4026-9e72-43f765681fb7,Alex Norton,North,P006,Gaming Keyboard,Electronics,60,2,120,Completed
+a155d34b-b828-48e4-a568-6d39b226dd87,12-07-2025,50174e42-f70d-4d8b-863e-218fc2b8159c,Candice Wright,South,P002,Bluetooth Speaker,Electronics,45.5,2,91,Pending
+5a044b5f-c6fa-4f44-af48-571418fb03e5,29-08-2024,be087323-2304-4df9-854f-3788ce84238d,Mary Smith,South,P004,Desk Lamp,Home,30,5,150,Completed
+461968dd-7b34-4374-a79b-83ca2be323b2,26-11-2024,c3f9de77-0017-440b-af99-72df2147d988,Craig Williams,North,P003,Yoga Mat,Fitness,20,4,80,Completed
+8477292e-ca21-47f1-b401-2a9b2bc5e86b,14-02-2025,3bcf21fd-4dd8-47ba-9624-2be3b6e00134,William Morton,South,P003,Yoga Mat,Fitness,20,5,100,Completed
+cd31fd4d-e49c-424d-a657-4608faa4e98a,02-11-2024,0ed369d4-e2f6-4aaa-a595-b74c4bb2666b,Terry Parrish,North,P005,Notebook,Stationery,5.99,4,23.96,Completed
+3098ff2f-1ea3-4b48-a212-0e130b219a18,05-10-2024,a7aaa94c-5402-41cd-89ce-d16c712d1343,Michael Hanna,West,P009,Water Bottle,Fitness,10,2,20,Completed
+6ddac92a-2d03-406b-960a-248a5a9dd698,04-05-2025,5abbe8bf-76c6-43e7-9216-fa85c687dfae,Dustin Harris,South,P007,Running Shoes,Footwear,80,2,160,Completed
+9113fbd9-564d-443c-9327-3f6d32becf1b,18-01-2025,be912da4-27cd-4a9d-b23d-914d57e6cdb8,Barbara Foster,South,P002,Bluetooth Speaker,Electronics,45.5,2,91,Completed
+4e8f546c-5c4d-4847-b489-c9243193ed88,30-03-2025,3506fe6a-7ad4-41a9-bb4b-11f2e8afb3aa,Joseph Davidson,East,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+5cda32d4-0258-4d3e-8654-a3ecdd2682cd,12-03-2025,5fcf256d-d018-4504-baf4-18d76bc6f5bd,Christopher Powell,East,P007,Running Shoes,Footwear,80,4,320,Cancelled
+8f9c70a3-a0ba-43c0-ac07-dcb6c5ff3b37,01-12-2024,f41c2451-4292-4936-b8de-07b42d59f85b,Jordan Taylor,South,P005,Notebook,Stationery,5.99,3,17.97,Completed
+4b9d7c4d-45dc-41c3-ab50-98ec17c098b7,15-07-2025,94209b13-7062-497f-81a7-49822c667521,Terry Palmer,South,P007,Running Shoes,Footwear,80,1,80,Pending
+7181f26f-9063-4473-aed0-25f31dc7bf8e,10-02-2025,25a3824e-6ff1-4874-b1a2-8b977d45cd27,Maria Stevenson,North,P006,Gaming Keyboard,Electronics,60,4,240,Completed
+fca8aebb-9810-4e05-8a75-c53b44de03a1,30-09-2024,cecf413d-6b57-45b9-9e25-28470528bacc,Jon Price,West,P003,Yoga Mat,Fitness,20,1,20,Pending
+e551b7e4-0234-4758-9107-fa260b0a1ef1,30-12-2024,5f46721e-e2ad-4a6d-a695-726992091e2e,Vanessa Rhodes,North,P003,Yoga Mat,Fitness,20,3,60,Completed
+a093a403-413f-4952-9d11-fe2da975222b,17-01-2025,7d3a896f-821e-4015-818d-1b424edef554,Joan Zamora DDS,West,P007,Running Shoes,Footwear,80,3,240,Completed
+f4c29990-0dd1-40d5-9021-78afba8c9d8d,09-05-2025,cbf2b1b3-fe2e-48be-8e5a-6bf722358a46,Gabrielle Herrera MD,North,P005,Notebook,Stationery,5.99,1,5.99,Completed
+e6be41a9-5798-4682-b8a0-7850ccb2140f,23-09-2024,d137d996-c2d3-4cbb-bd97-189510c5d3a6,Brian Taylor,South,P003,Yoga Mat,Fitness,20,2,40,Completed
+1b7f20e9-2e7d-4213-8ad4-111b35eafd5d,27-09-2024,edd67c48-c0ee-4f7f-b487-b92173c92c1c,Brandi Flores,East,P004,Desk Lamp,Home,30,1,30,Completed
+02e5108a-0145-4710-af4e-b42da9692c56,05-08-2024,0f35fde7-4721-4b30-8ee3-9c9f86f2b7fe,Christopher Scott,South,P004,Desk Lamp,Home,30,2,60,Completed
+1eaee706-9b26-4531-bf7c-097d9d765fdd,18-04-2025,0bdaaa2f-ae35-473d-b305-5042f872ea42,Allison Daniels,West,P010,Pen Set,Stationery,3.5,4,14,Completed
+f64bb85c-f33b-42c2-bb73-f26aaf08cd92,13-06-2025,8555b4fc-0494-44b5-b082-d863dddbcf05,Joshua Randall,South,P010,Pen Set,Stationery,3.5,5,17.5,Pending
+714e4d1a-2c01-4f88-b6cb-7e9be36604e3,18-06-2025,c67ae99f-a1f5-45b7-8299-df64e7e60b30,Melinda Lee,South,P010,Pen Set,Stationery,3.5,4,14,Pending
+9fac323e-0bab-44e4-b28b-382073c65ed1,01-02-2025,a35dcc00-4c0f-4f37-81e6-e73262bcb21d,Dale Smith,West,P009,Water Bottle,Fitness,10,2,20,Pending
+222d822e-486f-45dc-9c36-a7bdfab2f422,03-07-2025,e5c0c1f1-bf1b-4e7c-81e9-07d40bbf5006,Robert Foley,East,P008,Backpack,Accessories,35,3,105,Completed
+bb953131-3540-4e43-885d-cb581e8c0260,01-10-2024,a5abd34f-bc2a-4988-8c79-65274e2ca0f5,Kathryn Robles,South,P004,Desk Lamp,Home,30,4,120,Completed
+35873a93-ff36-4a55-8e07-9b6bb9f068e1,01-10-2024,05f13697-8595-4d63-bfb7-c0c5801a6172,Matthew Woods,South,P008,Backpack,Accessories,35,3,105,Completed
+53a1ad76-7637-4bb6-bedb-08a0848ccffb,25-02-2025,2115cf62-6ab5-47cc-884b-d270fd669578,William Huerta,West,P001,Wireless Mouse,Electronics,25.99,3,77.97,Completed
+ce4c3cf6-ebea-46d0-a926-d15a5825b423,02-11-2024,5cfa67bd-1456-4548-9c99-b16e522eaa55,Frank Deleon,South,P007,Running Shoes,Footwear,80,4,320,Completed
+78f937b5-a0bc-4793-90d5-0c00acd39c5a,31-12-2024,f0da027f-417e-4a83-9763-e59773ab78ad,Daniel Wolf,North,P009,Water Bottle,Fitness,10,5,50,Completed
+259c8003-c944-4ea5-8fb1-a46e6581a03e,31-10-2024,1071a9cc-bf45-4408-8ac1-f20e2fe4a372,Kimberly Brooks,North,P007,Running Shoes,Footwear,80,3,240,Completed
+70ff2a2a-a911-4757-ab3f-8975bfb9e617,10-01-2025,15ee485b-6871-48a4-9a90-c8c1d67a13e4,Megan Hawkins,West,P009,Water Bottle,Fitness,10,3,30,Completed
+42849dbc-b322-4900-b505-5f1927242926,28-02-2025,520a606e-5919-4f6d-8690-8cd9cdf171b3,Ms. Rachel Fox DDS,East,P001,Wireless Mouse,Electronics,25.99,2,51.98,Cancelled
+0a049a86-e4d1-4ffb-a98e-1ef42568f423,26-01-2025,d0e4fdd2-bc30-4881-ba5b-9b581a63341a,Karen Gutierrez,North,P009,Water Bottle,Fitness,10,3,30,Completed
+8ef85f31-f60f-4115-8fd1-aa79fb1117da,28-06-2025,f5bfef33-e4ca-4fed-96e0-f38c3ff1737c,John Medina,East,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Completed
+2bc30189-7f09-4894-8a78-d88b6f76f2b9,21-01-2025,23954f42-e1cd-4ecb-9a7a-393a912fcc40,Charles Stokes,North,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+26a421dd-a5b3-4492-80e8-2624725993f4,31-12-2024,a6a2275d-3ed7-4e87-8440-7d9990a04c8e,Antonio Silva,East,P010,Pen Set,Stationery,3.5,4,14,Completed
+d2bf880b-c866-49ed-81a8-1ece75f72158,15-05-2025,1906e255-8f70-4a02-8430-ba5a159c3e86,Kristin Mcdonald,North,P007,Running Shoes,Footwear,80,4,320,Completed
+0e3caa17-f784-40fb-9968-0d9b669b50d4,03-12-2024,a5a6f75e-3e8a-41c4-a36f-0fd3921a7d24,Amber Ortiz,West,P003,Yoga Mat,Fitness,20,3,60,Completed
+1b7e5a5d-c861-4d05-ba29-ec786aacc46a,17-08-2024,8edc6cb7-58b6-4a82-a6ba-bf953dac604b,Sheena Douglas,East,P003,Yoga Mat,Fitness,20,2,40,Completed
+8202adf4-d4d3-4ad4-b121-4959d039aae8,26-05-2025,5e775600-3782-40cc-a952-ea843d2826b7,Lori Rogers,South,P004,Desk Lamp,Home,30,3,90,Completed
+39cff708-cdac-49c2-8d7b-165d58d4caaa,10-10-2024,f0a02945-8eeb-4d6c-af66-3432ca8580be,Matthew Fisher,East,P001,Wireless Mouse,Electronics,25.99,5,129.95,Completed
+3903ff0e-c87d-46d2-a3f1-7bc8a9310f13,15-02-2025,e1b0a004-1403-431a-b1c9-a9b10dfe9f08,Michael Rosario,East,P010,Pen Set,Stationery,3.5,3,10.5,Completed
+c36c4668-b3c2-4288-abb5-2cd78ad94ab9,06-03-2025,309baefe-e0ea-47e1-b330-9c9306fee807,Kathleen Moore,East,P007,Running Shoes,Footwear,80,3,240,Completed
+5fd90e21-d6c1-421e-9d9d-c9e16b1a40b7,04-09-2024,77ea8ac2-0fd7-49cc-8a1d-f6322ca203fb,Douglas Simon,West,P005,Notebook,Stationery,5.99,1,5.99,Completed
+d85e59dc-e519-4f83-8900-69aa7be9e416,10-06-2025,569aa274-126d-4a4b-ad81-79e4946d2541,Christopher Hall,West,P003,Yoga Mat,Fitness,20,1,20,Completed
+0d81e997-e607-4759-b71b-2d58319f491c,25-02-2025,7a734419-242d-4797-bbe4-4f960d725329,Rebecca Long,East,P008,Backpack,Accessories,35,3,105,Cancelled
+0e3ee827-6136-4c7b-8801-d7997296b1fb,11-07-2025,38de7f1c-8615-44dc-b724-d36c27b91602,Robert Steele,West,P009,Water Bottle,Fitness,10,1,10,Completed
+bf076491-c0a0-410f-af14-737f8ec232ec,18-05-2025,211b2c88-cd5b-44aa-bce2-0a6c91ca355c,Matthew Brown,South,P005,Notebook,Stationery,5.99,1,5.99,Pending
+866f5a31-e538-42fa-847f-0536e8303603,20-10-2024,8a1420ad-ab84-4cef-ac5b-a258b2b201ea,Wendy Duran,South,P003,Yoga Mat,Fitness,20,5,100,Completed
+c4e5b15d-aee7-4140-92a6-5772a653c59f,12-07-2025,3f60acb3-d14b-4458-a1e4-49dc7b93333b,Benjamin Matthews,West,P010,Pen Set,Stationery,3.5,1,3.5,Pending
+fe375131-54ff-4e2a-83a7-fb5177813434,02-06-2025,6e96fb4e-8e1f-4b68-bee7-a0659d2997f8,James Jones,West,P003,Yoga Mat,Fitness,20,5,100,Completed
+2d049a30-8c1c-4278-8530-fbc1db842404,20-08-2024,465ee10c-cf4c-4341-b4cd-68decb12bd7c,William Clark,North,P005,Notebook,Stationery,5.99,1,5.99,Completed
+7dcbd274-e942-4bd7-929b-88293ed8f65d,16-07-2025,28ca6460-0efa-43d8-bea9-4b1b017c8835,Teresa Wallace,North,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+b679f3e4-69b6-48ec-b5b7-967b4d08fd38,24-07-2024,d93408b1-6b94-4b73-a2f0-9686a4b949ef,Ronald Sherman,South,P001,Wireless Mouse,Electronics,25.99,5,129.95,Completed
+78087502-3616-45c9-a87e-0d176c7b304c,29-04-2025,8c97659b-ff80-4bb7-bee2-694091351d6f,Brady Garcia,North,P002,Bluetooth Speaker,Electronics,45.5,2,91,Completed
+1ac1cc60-0bec-47aa-b5d5-407adac69610,17-01-2025,241070de-add4-4287-aee1-50275a5cd976,Kevin Vega,East,P008,Backpack,Accessories,35,4,140,Completed
+04128110-d005-45ef-9e16-12cd7c230947,12-11-2024,ae06d608-6bf1-4e06-80ac-6df9ddf91ef1,George Graham,West,P001,Wireless Mouse,Electronics,25.99,1,25.99,Completed
+05d40115-68c0-45d6-9ffd-5012de00dfc2,24-09-2024,274a3d4b-3c12-418c-93ed-0589d2bf1d16,Angelica Ross,East,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+c6d557c8-bc0f-46e8-81b7-69ca8b4b9275,20-10-2024,314af79c-9524-4f5d-844f-62129e2c335b,Carlos Castro,North,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Pending
+58337786-565f-4cce-abe1-47550be791e4,10-12-2024,35637d60-d280-4d63-824b-a4117534da7e,Julie Bailey,East,P007,Running Shoes,Footwear,80,2,160,Pending
+cc81e4f1-199d-4059-94b8-2f3142d7af8c,14-12-2024,6b7e5ea5-26e8-44c3-8ebc-0acc049fff38,Karen Watson,North,P004,Desk Lamp,Home,30,4,120,Completed
+268eeabd-7fcf-44f3-92e9-8136a7a1511c,28-01-2025,cce0ddbb-d789-450b-8a6c-00e3774db158,Jesse Jones,East,P003,Yoga Mat,Fitness,20,5,100,Completed
+a5eaabfe-6ad5-490f-8cde-dce8450c4802,06-11-2024,5d6dece0-4915-49ea-869f-fa366278b6a5,John Faulkner,North,P003,Yoga Mat,Fitness,20,4,80,Completed
+62f066cf-fd4d-4b71-a5dc-0e9aaadfb7c4,06-11-2024,de927d64-ea0f-4bce-8484-6ef61df2c35c,Shelby Perez,East,P010,Pen Set,Stationery,3.5,4,14,Completed
+c2ec9a87-83fd-418a-9775-3be366b16407,16-05-2025,ea52daa0-56e5-4c85-9a24-67b7e85f0bad,Eugene Kaufman,North,P007,Running Shoes,Footwear,80,4,320,Completed
+f59ad570-efed-4569-a4d1-b0003a895e2d,28-01-2025,cf757626-85a6-46de-8d64-3f894ff32d09,Natalie Scott,South,P008,Backpack,Accessories,35,1,35,Pending
+3882764e-59d5-4bf1-b94e-9c6b208effdd,04-09-2024,ad3fc5d4-18a8-4c6c-b5dc-705fd02f0ead,Derek Brown,East,P003,Yoga Mat,Fitness,20,3,60,Completed
+a5268ec7-e0f4-4679-aa0a-d8692cfeb5ad,17-08-2024,cf8c8e25-3e88-4c08-9064-5c6687940161,Stephanie Dixon,South,P007,Running Shoes,Footwear,80,4,320,Cancelled
+e80766f1-1604-42b2-8fc4-28e5e727504b,03-02-2025,74293429-5258-414e-915c-ef2ebf2b6466,Jermaine David,East,P001,Wireless Mouse,Electronics,25.99,5,129.95,Completed
+9a5fb8f7-3cea-4029-ab01-b5f2f551a8ec,13-02-2025,db975e28-4acf-45ea-ae03-397d4a1b52b3,Russell Washington,South,P004,Desk Lamp,Home,30,4,120,Completed
+2c013439-f5d6-49ad-a3dc-01c0977448d9,11-01-2025,9e9497d3-bff1-43d1-b451-220ee695a158,Michael Garrett,South,P007,Running Shoes,Footwear,80,2,160,Completed
+fdec0526-09d1-4b8e-914b-6cef73ad1929,19-07-2025,cf1a4313-bd92-45ec-86c2-a69616028512,Logan Thomas,West,P006,Gaming Keyboard,Electronics,60,4,240,Completed
+114afb9f-2e5e-495d-9a06-58dbcff012d7,10-07-2025,7fa4a725-fd6d-422d-92f3-702002d03035,Robert Knight,North,P004,Desk Lamp,Home,30,4,120,Completed
+b0de6aa4-a250-4bb1-af5b-8e3296a6bcab,01-07-2025,32339a81-1ab2-4356-8f6d-4f519621e6ed,David Kirk,North,P007,Running Shoes,Footwear,80,3,240,Pending
+bf6cca09-709b-4b3f-96a8-9963e50c305f,03-08-2024,aa646526-a368-4ad2-a5a0-386ddc64f46c,Cassandra Walker,South,P010,Pen Set,Stationery,3.5,2,7,Completed
+0ddaf5e7-4796-4040-a7a7-bab464eebdd0,01-05-2025,fc9e57e8-ad39-401c-9c38-ab6e9197f7c8,Meghan Bates,North,P009,Water Bottle,Fitness,10,5,50,Completed
+bb797af1-6bf3-44d4-906f-1646448e9f40,16-04-2025,7e43e30a-3452-4413-bee3-58f538bb3870,Mrs. Jessica Jones,North,P005,Notebook,Stationery,5.99,1,5.99,Completed
+a6413de6-7b4c-4472-9cd9-7c62b0a92cc8,15-01-2025,9f1e4c85-4e87-434f-b15b-1095d84b659a,Mark Willis,West,P010,Pen Set,Stationery,3.5,3,10.5,Completed
+94f4763e-bed9-4546-8a21-1c4f32905219,02-11-2024,f07d328e-88ba-4fa4-ba84-71bae9d10110,Ashley York,West,P001,Wireless Mouse,Electronics,25.99,3,77.97,Completed
+413f101a-9b02-4e57-a5ac-7a4dbd2489b7,20-02-2025,b609676f-86ae-49f9-b9ee-a4cd0eef1d86,Jesse Rangel,East,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+82d53e50-3d3e-4de0-be34-07f55ec1ff47,13-11-2024,dd51ee58-de93-45d5-9b5d-c4f4fcb73b61,Sean Harper,East,P007,Running Shoes,Footwear,80,2,160,Pending
+45bf028e-4b25-4e39-8006-af7d82dfa9d8,30-07-2024,7a9fd9ba-4df6-4863-b242-348c1964a4a2,Tammy Harrison,West,P008,Backpack,Accessories,35,4,140,Completed
+687c8fb7-8924-46f8-a7a3-9b08f96bbb1c,28-02-2025,af1b30b2-9ca4-4319-bb14-ff9d092c1ca0,Jasmin Jones,South,P008,Backpack,Accessories,35,5,175,Completed
+19b71a13-a49a-43fa-98d5-2d10221c8382,05-03-2025,f64fd925-b329-4157-9709-3c6b32640c09,Allison Flynn,South,P004,Desk Lamp,Home,30,2,60,Completed
+b65ca28f-94a8-4f14-91d3-fdcef902c53b,25-03-2025,acbf8602-7cd2-42cb-ae80-f076c80a8060,Madison Harris,North,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+fd61115e-ce02-4fae-84dd-651528896caf,11-01-2025,3271fd0e-c852-4890-ab84-52de803832d1,Robert Harrington,West,P009,Water Bottle,Fitness,10,1,10,Completed
+61782937-7a02-4260-9e34-4c0097c3e866,23-04-2025,87264466-847e-4d0b-bbca-9426fcb704d3,Daniel Wheeler,South,P006,Gaming Keyboard,Electronics,60,3,180,Cancelled
+b17105f7-7535-4120-b1b9-2bfddad0ee87,26-09-2024,d6437baa-dbe1-4e9e-bc6e-7653f7ae42f1,Mr. James Phillips,South,P007,Running Shoes,Footwear,80,5,400,Completed
+ba8f31dc-188d-4403-b0ad-e25f5f89abf4,04-06-2025,50023885-1c9b-496e-b788-2fb1f9af0268,Xavier Long,East,P004,Desk Lamp,Home,30,3,90,Completed
+41f7cbd2-51f3-4580-8f2f-f1de7f3a72eb,09-07-2025,ba0d8726-b01e-4b07-ac61-d6cd371fe0b5,Carrie West,South,P003,Yoga Mat,Fitness,20,3,60,Completed
+d35a4e47-dfc8-4023-ac86-fe3cadb701e0,03-09-2024,54ce2662-fec1-4483-8d2f-6de2a48ecd5a,Chad Stewart,East,P003,Yoga Mat,Fitness,20,5,100,Completed
+84fc52e2-9a51-4d2a-b386-99249fde764c,22-05-2025,e20824d8-14a0-45eb-9614-e88f6718c7ae,Colin Scott,East,P005,Notebook,Stationery,5.99,2,11.98,Pending
+e895b665-0550-42ba-a832-716afe92b6ea,26-04-2025,77cc4a78-f04f-4a02-a44c-0e0c5b979511,Jennifer Rodriguez,South,P009,Water Bottle,Fitness,10,2,20,Completed
+7e0398c9-13c8-4ccc-a71f-0335f2116c45,20-03-2025,8d6e9130-bfda-4464-a350-2b7afc1c266e,Jennifer Clark,North,P004,Desk Lamp,Home,30,2,60,Completed
+bc7c5e4a-39a1-43bd-afc9-c6206091dce8,17-03-2025,4e01a96f-89b8-49a1-ad82-01f63ce5fc3f,Bradley Ramsey IV,South,P001,Wireless Mouse,Electronics,25.99,2,51.98,Cancelled
+c67a9744-b75e-4cc7-b4f2-9bb6a11eac25,17-05-2025,c3c77ec9-71ab-4131-8e4b-383c1c467a1c,Erica Thomas,South,P008,Backpack,Accessories,35,2,70,Completed
+579d1719-6826-41e1-ab4d-47dae8133cfa,30-10-2024,d2c4093d-54c1-49b5-9d98-387458c2829e,Maria Bell,North,P006,Gaming Keyboard,Electronics,60,3,180,Completed
+4d884883-bd6d-4393-85ff-ee73c67bba81,04-01-2025,31d82bec-cc30-4063-8323-49d55833873b,Karina Anderson,East,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Completed
+d511f8ad-6931-4591-92e7-2f38e07f732b,14-12-2024,594f3748-9766-44ba-ba62-c35e5b4fb69b,Tony Jackson,North,P009,Water Bottle,Fitness,10,3,30,Completed
+6b6526c5-fed4-4d2d-aee3-acfae153c6b0,17-04-2025,8839b3c2-d04d-4687-8910-6ea9d667b347,Kelly Turner,North,P008,Backpack,Accessories,35,2,70,Completed
+bb5e3904-9379-4376-9ea2-d6387b44fe31,05-07-2025,2be7b586-5469-401a-870b-f798b93bbeda,Sandra Bell,West,P005,Notebook,Stationery,5.99,1,5.99,Completed
+36eb89ec-f654-4ed8-a773-287a5e48ade7,18-02-2025,f1624799-9fbb-47b3-a02a-01d45dde91ac,Lori Baker,East,P001,Wireless Mouse,Electronics,25.99,3,77.97,Completed
+581c5d12-642c-4846-9b14-9ca821ca1565,08-04-2025,85466de3-11f3-4104-a6af-b114a87fca47,Michelle Torres,East,P009,Water Bottle,Fitness,10,4,40,Completed
+79a1844a-e935-4242-ae21-b91ccd38022a,17-05-2025,a5446115-c946-428d-928f-07dc68e6f105,Micheal Carter,West,P003,Yoga Mat,Fitness,20,3,60,Completed
+e3af64bb-06fd-4773-94e9-2df5c84482a7,16-04-2025,46a7076e-02c8-48eb-9a68-5b39bfbe142d,Pamela Carson,East,P007,Running Shoes,Footwear,80,3,240,Completed
+61a7f867-3e7d-4b12-a545-fc83e5cf50a2,07-01-2025,2981542e-6612-46ea-898d-32c19edf9bd0,Todd Lee,West,P002,Bluetooth Speaker,Electronics,45.5,3,136.5,Pending
+69bbf829-c664-43a0-b4e3-bf19821addb5,11-11-2024,d613c6ff-34f6-4fc4-a564-d57fbabd5405,Sarah Sexton,East,P004,Desk Lamp,Home,30,1,30,Completed
+de012b95-0f4d-430b-8623-240a534a2e6d,14-12-2024,ac381211-c6a3-436a-9487-3cfae992496e,Brandy Navarro,West,P005,Notebook,Stationery,5.99,2,11.98,Completed
+46d6ef49-b5f6-4bc3-8a73-3199a41b9f9d,26-03-2025,968c5b7e-1bbe-4976-97b0-d790e8c1c457,Latoya Simon,South,P009,Water Bottle,Fitness,10,3,30,Completed
+a7990039-26d0-4020-b33e-cd169f11bfee,07-09-2024,9f16419f-3686-4ab8-ad6e-7db9064060ee,Jesus Kane,East,P008,Backpack,Accessories,35,4,140,Cancelled
+128bec78-78aa-4c94-a3a4-06f1798da917,10-09-2024,4aef9d2b-5159-4148-bd60-637015f77497,Debra Clark,West,P001,Wireless Mouse,Electronics,25.99,1,25.99,Completed
+b66bdc81-0bb2-4390-a304-1a9a2f01cd50,30-11-2024,f5f6d162-8a18-425f-acad-7b8aeb8bcbc0,Anthony Singh,South,P006,Gaming Keyboard,Electronics,60,2,120,Completed
+bde5516b-3e42-43a7-9c37-d52eb12bb6bd,17-01-2025,ae3cb5c8-bb79-4e69-b80b-90ff1ef6a17b,Robert Luna,South,P005,Notebook,Stationery,5.99,3,17.97,Completed
+38a5db4c-3cd7-4c54-832b-ad55d8e18b43,26-12-2024,ccbe49a7-6a90-47a5-9242-dd5e6d2ff804,Alexandra Wheeler,South,P008,Backpack,Accessories,35,1,35,Completed
+37df0947-3675-4a31-8a26-48bcbfb904b2,27-06-2025,81531735-5dc1-4c15-91f3-a61ddc69f9c6,Christy Williams,East,P005,Notebook,Stationery,5.99,3,17.97,Cancelled
+d56b77a7-125a-40b1-8172-2d678c0676d6,16-10-2024,275d5b06-3e24-43e7-bf63-bb0dd1ac25d1,Brad Boyle,East,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+e68a51a3-d660-4011-8897-77bd6d05a140,30-01-2025,558b87c5-758c-4b2e-a714-827c940d0b14,Cameron Pham,South,P007,Running Shoes,Footwear,80,1,80,Completed
+2bb634ee-4b77-403b-8b82-de43b86327e2,22-02-2025,de5f65ce-77ef-430c-901c-77aa82e1e87a,Hannah Ramos,North,P007,Running Shoes,Footwear,80,1,80,Completed
+99de4060-2a6e-4f53-a779-832c209d9775,26-11-2024,bbb9af14-5f1c-4e09-a937-7f74b2da563e,Cody Peterson,West,P008,Backpack,Accessories,35,1,35,Completed
+0dcede53-6ff4-4ea9-a01f-5a5fb39ecf0b,14-09-2024,4e008885-d28c-4620-8c66-41e9c743266a,Monique Peterson,East,P005,Notebook,Stationery,5.99,5,29.95,Completed
+09ed9234-c93c-49b0-b4ec-6f3f1eb177a4,23-02-2025,6f78c92f-0942-4e14-9ff6-b6dee620b195,Susan Allison,South,P003,Yoga Mat,Fitness,20,5,100,Completed
+618b6d9b-ef40-4132-8650-566ebcbc2be9,04-05-2025,4428d4c9-77f4-4165-8536-8a4909303d7e,Amy Campbell,North,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+e7fda5ed-a2b3-43c9-ad9e-c42660b1e84c,12-08-2024,a952d42b-34ed-4f81-a4d1-37eeaf32f02e,Michael Horton,South,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+5bf03f39-2fd8-456c-a29f-84adbbcf0ce0,30-05-2025,ff92bd2a-7aef-4208-ab0e-8ab6b308f607,James Hayes MD,South,P005,Notebook,Stationery,5.99,3,17.97,Pending
+a3773899-51e5-492f-ad57-251bbc0b2cde,14-08-2024,ba2f510c-e888-4973-ae51-d6c53bcb297a,Ian Rodriguez,East,P004,Desk Lamp,Home,30,1,30,Completed
+1e33aa42-b6cd-4e70-8bb4-50e0d69b1375,05-08-2024,1ae88941-b3b4-4842-a295-e1367bf76c9b,Ryan Lang,North,P010,Pen Set,Stationery,3.5,4,14,Completed
+e5caafb1-50c7-474b-a764-30fbb7ed0821,17-06-2025,9d7bd29e-5161-482e-ab22-5b66cc7054bd,Marissa Clark,East,P008,Backpack,Accessories,35,1,35,Completed
+0b53c509-f8f3-4409-926b-9c9eb9124239,13-05-2025,acd10050-b2dd-4c7f-a401-a8dd5952d066,Kathleen Wilson,West,P006,Gaming Keyboard,Electronics,60,3,180,Completed
+94153769-284e-4ce2-9e86-f2efc8df76dd,24-08-2024,771b0bea-5006-4744-9ff5-01155bfd29a5,Jennifer Gardner,East,P010,Pen Set,Stationery,3.5,2,7,Completed
+ab9a9558-023c-425b-80fb-e85422f6f26b,13-05-2025,d27d5242-2959-434c-808d-4b522097e98a,Patricia Cook,East,P006,Gaming Keyboard,Electronics,60,5,300,Completed
+b4765aa9-2c30-4b1f-bd0c-3f6be7044b12,24-01-2025,6d343d50-6f04-43b8-b027-4d229d0127f9,Daniel Ryan MD,South,P006,Gaming Keyboard,Electronics,60,2,120,Completed
+c474d58d-cfc9-4862-9bec-334f622503db,26-07-2024,a1f3c10e-b292-4bac-8605-d7eb03971fa0,Joseph Brown,East,P010,Pen Set,Stationery,3.5,2,7,Completed
+eca3f848-08f3-4531-9086-d9d7d1373ca8,15-06-2025,7ed9a7cc-0d8f-4c6c-ac09-1e5b3d33d85c,Gregory Brown,South,P009,Water Bottle,Fitness,10,5,50,Completed
+2d8fc091-3eb3-4a75-8f87-e86278bef7c6,26-06-2025,b87886b4-7a0a-4e29-9d07-98a619ebacdd,Eric Bishop,South,P005,Notebook,Stationery,5.99,5,29.95,Completed
+a43a9f4d-942d-4cb0-a960-f41742429066,11-02-2025,5c7a22c3-d237-4c92-a784-924afea22b86,Jeffrey Trevino,West,P001,Wireless Mouse,Electronics,25.99,5,129.95,Completed
+5815c138-09f3-4b68-bf01-7d1b5b0f8db9,17-05-2025,8400f217-c5f1-444f-8122-c13df079adb0,Tammy Gregory,West,P009,Water Bottle,Fitness,10,1,10,Completed
+69ee70e8-8ddc-434c-9267-0798482f2875,04-12-2024,1f27f557-20cd-4e01-8aac-1ea904559e48,Douglas Yates,South,P010,Pen Set,Stationery,3.5,1,3.5,Completed
+d79ace56-defb-426c-b48f-6c90017e5d26,14-01-2025,90f41606-ffee-4c7b-b2e3-af33f8d68f02,Scott Griffin,East,P009,Water Bottle,Fitness,10,4,40,Completed
+11562a7a-a481-45c4-961f-f67f0b439321,06-11-2024,e1c5b222-cdb4-4ef1-9a81-cf43fdab4d5f,Anna Johnson,East,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+246937f9-91cc-48ac-861c-f2610cfabdfe,09-12-2024,488739dc-d68d-4d0f-9851-a4a23812f40c,Danielle Black,North,P003,Yoga Mat,Fitness,20,1,20,Completed
+b014db2d-0b74-43c0-8aee-f2613fed625a,21-08-2024,c1cdbb67-5b01-4961-91cb-e0ad44f13d32,David Garcia,West,P003,Yoga Mat,Fitness,20,2,40,Completed
+44ea00bd-b1e9-4dc1-b0af-dcc2bd73ecac,09-10-2024,d2503639-19bd-4079-898e-e0197f32a9ec,Kevin Williams,East,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+67c42ff7-ef4e-46c1-afe1-f2b7ab659c97,30-10-2024,ae99ce05-4fda-41dc-a71a-88fda8120565,Harold Shepherd,East,P006,Gaming Keyboard,Electronics,60,4,240,Completed
+6502b15f-699f-4985-badf-cd3479dda69a,16-11-2024,8ecba174-8807-418e-bb65-a49e39444d7d,Tammy Brown,North,P006,Gaming Keyboard,Electronics,60,1,60,Completed
+ad678409-5fc0-472f-b46c-1e2bae003072,24-07-2024,76aadf23-aa74-435f-a574-b7ebdd0defef,Suzanne Jackson,East,P010,Pen Set,Stationery,3.5,1,3.5,Cancelled
+539eac43-dcdc-4a64-b6cf-397a454595b5,05-06-2025,35c1804d-3eda-48ae-af70-e091551e9059,Donald Mcdowell,South,P009,Water Bottle,Fitness,10,4,40,Completed
+147b0234-7a75-475b-acba-4cebf196f99e,12-08-2024,1a361a57-6bbd-442d-b1cb-7365059a639f,Matthew Jones,South,P006,Gaming Keyboard,Electronics,60,2,120,Pending
+6ee92497-34a0-4919-8ee7-243282958b31,22-07-2025,6fe70fa9-a198-4adc-b8da-3dd122622aa8,Brenda Chan,North,P006,Gaming Keyboard,Electronics,60,5,300,Completed
+766a946a-6b91-461e-829a-7014252a7a75,27-06-2025,4e7097e3-f3f4-4d10-994c-d77128f1e6c6,Sara Cabrera,North,P010,Pen Set,Stationery,3.5,2,7,Completed
+c6890e4e-64a9-4bd9-ac46-2ab02638286f,13-03-2025,62efe566-74d1-4e2d-85e3-04c85b9a5867,Charles Jackson,South,P002,Bluetooth Speaker,Electronics,45.5,4,182,Completed
+82b40373-f73e-44a4-b4d4-7a23c597a17e,27-01-2025,54abff9a-2945-4f99-9a6e-7dd82116fbd4,Nicholas Brown,West,P002,Bluetooth Speaker,Electronics,45.5,1,45.5,Completed
+e782383e-8a9d-4cba-ab9f-96cc02cb1510,26-02-2025,f90b71c8-09d6-4dc5-816e-1878a7ad9d3d,Wendy Shah,West,P010,Pen Set,Stationery,3.5,3,10.5,Completed
+d1dcf5dc-cb2f-4e1f-bb6c-1e63558d6bbd,11-01-2025,b7fe7db6-c80f-4f79-81fe-10addad33da0,Pamela Johnson,West,P005,Notebook,Stationery,5.99,1,5.99,Pending
+f779e63b-3980-4cbe-8020-2d20ff869f8a,08-12-2024,bb936bb0-2b07-437d-be12-6465303236bb,Kathleen Doyle,South,P004,Desk Lamp,Home,30,5,150,Completed
+27f3f212-dd2f-43a7-bd01-72f587eb41a5,24-04-2025,431d2824-e3fe-444c-b3fc-7862a3a4504c,Travis Frazier,South,P004,Desk Lamp,Home,30,4,120,Completed
+663e293f-2417-4c5f-8d9d-d0cee3874b21,23-02-2025,cef69b8e-d8aa-447c-a260-3bb34f80f492,Karen Williamson,West,P001,Wireless Mouse,Electronics,25.99,2,51.98,Completed
+a90f6adf-fd42-4713-944b-0ccd1e561756,12-12-2024,8bbb960b-f4a5-427e-b05a-98efec129d97,Bethany Armstrong,North,P007,Running Shoes,Footwear,80,5,400,Completed
+af65f648-1233-4711-b5bc-01bb6c52940d,09-06-2025,214d248e-c4d5-4a14-b9fc-630d93bc116c,Ryan Hughes,South,P007,Running Shoes,Footwear,80,4,320,Completed
+076caa5e-c9eb-4989-bdba-1b4e4508c877,21-09-2024,757e7074-e645-457c-bea0-7817718e1fa4,Michelle Santiago,East,P001,Wireless Mouse,Electronics,25.99,1,25.99,Cancelled
+55e6c7ef-8150-42e4-9da5-eb40040b3b55,08-12-2024,717abdf3-182f-486c-baeb-01648712b224,Matthew Adams,North,P007,Running Shoes,Footwear,80,1,80,Completed
+54acc7f8-f1e5-416c-bc36-405dd1773ac9,26-06-2025,c6b24eec-754b-4edc-a71e-4400fb053349,Michelle Simmons MD,East,P007,Running Shoes,Footwear,80,4,320,Completed
+3f8bed83-ee35-4a4f-8e69-740fec17774c,16-12-2024,28352686-1e92-4828-8bb3-eea6dd15ac5b,Michelle Wilson,West,P007,Running Shoes,Footwear,80,3,240,Completed
+56ad7dfb-8b10-405f-8118-adfe98f348bf,14-10-2024,01d84da9-b348-4949-b4d9-79dc3f9a1c09,Alicia Cruz,East,P008,Backpack,Accessories,35,2,70,Completed
+693383f8-1a07-4891-8bf9-6e346ecfedc7,06-08-2024,a1319c3f-62f1-4267-8da7-37f5bfbb7676,Dr. Norma Pierce,West,P007,Running Shoes,Footwear,80,2,160,Completed
+0cd37ea7-5749-4ef1-bac1-76028cbb070e,14-03-2025,5c9f53a4-3e18-43cb-b40a-843e0242557e,Alexis Torres,East,P007,Running Shoes,Footwear,80,3,240,Completed
+14ebcd52-8876-4f2b-a1a1-f107daa6f389,12-12-2024,43e84add-63ce-4fb4-af4e-65528398ec24,Jesse Campos,West,P007,Running Shoes,Footwear,80,3,240,Completed
+c7f71db6-4ae9-4b63-af96-cacd2ebad159,13-10-2024,29313187-a40e-48c9-9c63-84a55138ca6e,Karen Blanchard,South,P002,Bluetooth Speaker,Electronics,45.5,5,227.5,Completed
+fbfe6659-352b-424f-8e62-f2261544c5c3,10-11-2024,b21f7d48-a97d-446a-964c-88dbda99888b,Allison Johnson,South,P008,Backpack,Accessories,35,4,140,Completed
+33535226-ecac-4c9e-9742-b7b838d6c548,15-07-2025,bdaec054-10dd-44bd-95dc-70d8d85878cd,Heather Nelson,North,P008,Backpack,Accessories,35,2,70,Completed
+5ec0d95c-da16-4507-89d2-d36a9e9d34e1,18-09-2024,5dba8137-4c30-4bab-b2d4-8a1ad7fc3172,Virginia Stark,West,P006,Gaming Keyboard,Electronics,60,3,180,Pending
+14ec8733-cf0f-4804-b11b-d51e745fa3f8,06-02-2025,a545c238-50b6-4afc-87c4-b26ded377adc,Austin Schmidt,East,P002,Bluetooth Speaker,Electronics,45.5,4,182,Pending
+51339dc1-92a9-41d3-929c-8a20ace15801,23-07-2024,5ff39749-d25d-4187-85b7-0cbfa4241217,Troy Gonzales,West,P007,Running Shoes,Footwear,80,3,240,Completed
+641e55fc-da37-479f-a234-b6ae787f1fe6,21-08-2024,981e0de9-b74f-4bdb-a725-c813f4b51b84,Rachel Luna,West,P010,Pen Set,Stationery,3.5,5,17.5,Completed
+2ac97d24-360f-4247-ac4e-4a5877b0511e,25-06-2025,c05275eb-9c05-44bc-ba68-c757224b3305,Tracy Shaw,East,P010,Pen Set,Stationery,3.5,3,10.5,Completed
+cda99d45-9db9-414d-8001-1f2e29d3b9aa,22-02-2025,04cc5c28-a855-441e-8507-4e33ed2543ff,Daniel Barrera,North,P001,Wireless Mouse,Electronics,25.99,4,103.96,Pending
+990f1e63-0ee2-4384-b022-d0b380983b43,28-07-2024,cee7d7fc-cc07-424b-b8f1-660e16fd1b52,Donna Noble,East,P008,Backpack,Accessories,35,1,35,Completed
+25e137cb-de20-45b2-9c5e-c3394bece463,14-09-2024,b54ec17b-45ee-4abc-b8e4-1d52be22f393,Ryan Gonzalez,North,P003,Yoga Mat,Fitness,20,4,80,Completed
+65b02420-6912-425e-b9e0-6db5f5cbd9d2,26-10-2024,5fd721f5-805a-426e-91ee-81335cd86255,Joseph Hoover,North,P002,Bluetooth Speaker,Electronics,45.5,4,182,Completed
+f0d2f65e-fe95-41a4-afbb-f10587753b58,16-10-2024,35b57359-e2a7-4981-a0b5-9140cfec36bf,Jennifer Robinson,South,P001,Wireless Mouse,Electronics,25.99,4,103.96,Completed
+865d7a01-eb7b-439d-a897-5ef396f6b35a,28-07-2024,08958f10-28c5-421e-8787-e276b73eec23,James Avila,West,P006,Gaming Keyboard,Electronics,60,3,180,Completed
+5ea6bfa5-5cd9-4470-afe0-13e9e4562cc4,29-11-2024,a7b34270-d362-4214-b3bd-9692ccbe7d3d,Mr. George Moody V,West,P009,Water Bottle,Fitness,10,2,20,Completed
