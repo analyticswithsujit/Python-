@@ -1,0 +1,18 @@
+# Blinkit Sales Analysis – Business Requirements
+
+## KPIs to Track
+- Total Sales – Overall revenue generated from all items sold  
+- Average Sales – Average revenue per sale  
+- Number of Items – Total count of different items sold  
+- Average Rating – Average customer rating for items sold  
+
+---
+
+## Problem Statements
+
+Q1. Analyze Total Sales by Fat Content (Donut Chart)  
+Q2. Analyze Total Sales by Item Type (Bar Chart)  
+Q3. Compare Fat Content by Outlet for Total Sales (Stacked Column Chart)  
+Q4. Evaluate Total Sales by Outlet Establishment (Line Chart)  
+Q5. Analyze Sales by Outlet Size (Donut / Pie Chart)  
+Q6. Assess Sales by Outlet Location (Funnel Map)  
